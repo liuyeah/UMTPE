@@ -5,6 +5,8 @@ from tqdm import tqdm
 import ipdb
 import numpy as np
 from tqdm import tqdm
+from nltk.tokenize import sent_tokenize
+import re
 import logging
 logging.basicConfig(level=logging.DEBUG)
 
@@ -19,14 +21,35 @@ def load_obj(name):
         return pickle.load(f)
 
 
-def title_centroid(ranked_phrase_file, cpc_title_phrase_embedding_file, output_file):
-    ranked_phrase = load_obj(ranked_phrase_file)
+def title_centroid(title_list_path, cpc_title_phrase_embedding_file, title_path, output_file):
+    # ranked_phrase = load_obj(ranked_phrase_file)
     phrase_embedding = load_obj(cpc_title_phrase_embedding_file)
+
+    title_sen = []
+    title_result = []
+    count = 0
+    with open(title_path, 'r', encoding='utf-8') as f_title:
+        for item in f_title:
+            item = item.strip('\n')
+            temp_len = len(sent_tokenize(item))
+            title_sen.append(temp_len)
+    with open(title_list_path, 'r', encoding='utf-8') as f_title:
+        for item in f_title:
+            item = item.strip('\n')
+            item_dic = json.loads(item)
+            temp_result = []
+            for k in item_dic:
+                temp_result.append(k)
+            temp_result = temp_result[:2*title_sen[count]]
+            title_result.append(temp_result)
+            count = count + 1
+
+
     process_data = []
     output_data = {}
     centroids = []
     zero_count = 0
-    for item in tqdm(ranked_phrase, total=20):
+    for item in tqdm(title_result, total=20):
         # item 表示一个字典
         if len(item) == 0:
             continue
@@ -56,7 +79,8 @@ def title_centroid(ranked_phrase_file, cpc_title_phrase_embedding_file, output_f
 
 
 if __name__ == '__main__':
-    ranked_phrase_file = 'patent/title/title_rank/ranked_title_influence_phrase_score.pkl'
+    title_list_path = 'patent/title/title_rank/ranked_title_influence_phrase_score_text.json'
     cpc_title_phrase_embedding_file = 'patent/title/title_embedding/cpc_title_phrase_embedding.pkl'
     output_file = 'patent/title/title_clustering/title_influence_phrase_centroids.pkl'
-    title_centroid(ranked_phrase_file, cpc_title_phrase_embedding_file, output_file)
+    title_path = 'example_data/example_title/title.txt'
+    title_centroid(title_list_path, cpc_title_phrase_embedding_file, title_path, output_file)
