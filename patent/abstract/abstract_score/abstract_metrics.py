@@ -4,6 +4,9 @@ import pickle
 import ipdb
 from nltk.tokenize import sent_tokenize
 from scipy.spatial.distance import pdist, squareform, cosine
+import os
+TOTAL_NUMBER = int(os.environ.get('TOTAL_NUMBER'))
+EMBEDDING_SIZE = int(os.environ.get('EMBEDDING_SIZE'))
 
 
 BASIC_THRESHOLD = 0.5
@@ -130,7 +133,7 @@ def influence(node, sentence_text):
 
 def centroid_score(node_embedding, centroid_list):
     similarity_list = []
-    zero_list = np.zeros(500, dtype='float32')
+    zero_list = np.zeros(EMBEDDING_SIZE, dtype='float32')
     for centroid in centroid_list:
         if (centroid == node_embedding).all():
             similarity_list.append(1.0)
@@ -165,7 +168,7 @@ def calculate_score(graph_list_file, phrase_embedding_matrix_file, lower_text_fi
     phrase_embedding = load_obj(phrase_embedding_file)
     centroid_list = load_obj(centroid_file)
     output_score_list = []
-    for item in tqdm(range(20)):
+    for item in tqdm(range(TOTAL_NUMBER)):
         score = {}
         # ipdb.set_trace()
         if len(graph_list[item]) == 0:

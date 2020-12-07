@@ -5,6 +5,10 @@ import numpy as np
 from sklearn.datasets import make_blobs
 import logging
 logging.basicConfig(level=logging.DEBUG)
+import os
+EMBEDDING_SIZE = int(os.environ.get('EMBEDDING_SIZE'))
+CPC_CLUSTER_MIN_NUM = int(os.environ.get('CPC_CLUSTER_MIN_NUM'))
+
 
 # data, _ = make_blobs(1000)
 # clusterer = hdbscan.HDBSCAN(min_cluster_size=10)
@@ -27,7 +31,7 @@ def search_phrase_embedding(phrase, embedding_table):
     else:
         print('There is an error: cannot find: ' + temp_item)
         # ipdb.set_trace()
-    return np.zeros(500, dtype='float32')
+    return np.zeros(EMBEDDING_SIZE, dtype='float32')
 
 
 def calculate_centroid(groudtruth_file, phrase_embedding_file, centroids_file):
@@ -46,7 +50,7 @@ def calculate_centroid(groudtruth_file, phrase_embedding_file, centroids_file):
                 processed_data.append(search_phrase_embedding(i, embedding_table))
             else:
                 print('zero embedding phrase: ' + i)
-    clusterer = hdbscan.HDBSCAN(min_cluster_size=3)
+    clusterer = hdbscan.HDBSCAN(min_cluster_size=CPC_CLUSTER_MIN_NUM)
     cluster_labels = clusterer.fit_predict(np.array(processed_data))
     for item in range(len(cluster_labels)):
         if cluster_labels[item] not in output_data:

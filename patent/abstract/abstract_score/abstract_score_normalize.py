@@ -1,6 +1,9 @@
 import pickle
 import numpy as np
 from tqdm import tqdm
+import os
+TOTAL_NUMBER = int(os.environ.get('TOTAL_NUMBER'))
+EMBEDDING_SIZE = int(os.environ.get('EMBEDDING_SIZE'))
 
 
 def save_obj(obj, name):
@@ -16,7 +19,7 @@ def load_obj(name):
 def score_normalize(original_score_file, output_score_list_file):
     original_score = load_obj(original_score_file)
     normalized_score = []
-    for graph_item in tqdm(original_score, total=20):
+    for graph_item in tqdm(original_score, total=TOTAL_NUMBER):
         temp_normalized_score = []
         final_normalized_score = []
         for node in graph_item:

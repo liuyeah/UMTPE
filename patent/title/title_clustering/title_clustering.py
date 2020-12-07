@@ -7,6 +7,10 @@ import numpy as np
 from tqdm import tqdm
 import logging
 logging.basicConfig(level=logging.DEBUG)
+import os
+TOTAL_NUMBER = int(os.environ.get('TOTAL_NUMBER'))
+EMBEDDING_SIZE = int(os.environ.get('EMBEDDING_SIZE'))
+TITLE_CLUSTER_MIN_NUM = int(os.environ.get('TITLE_CLUSTER_MIN_NUM'))
 
 
 def save_obj(obj, name):
@@ -26,7 +30,7 @@ def title_centroid(ranked_phrase_file, cpc_title_phrase_embedding_file, output_f
     output_data = {}
     centroids = []
     zero_count = 0
-    for item in tqdm(ranked_phrase, total=20):
+    for item in tqdm(ranked_phrase, total=TOTAL_NUMBER):
         # item 表示一个字典
         if len(item) == 0:
             continue
@@ -42,7 +46,7 @@ def title_centroid(ranked_phrase_file, cpc_title_phrase_embedding_file, output_f
                     zero_count = zero_count + 1
             break
 
-    cluster_er = hdbscan.HDBSCAN(min_cluster_size=100)
+    cluster_er = hdbscan.HDBSCAN(min_cluster_size=TITLE_CLUSTER_MIN_NUM)
     cluster_labels = cluster_er.fit_predict(np.array(process_data))
     for item in range(len(cluster_labels)):
         if cluster_labels[item] not in output_data:

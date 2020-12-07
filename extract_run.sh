@@ -1,4 +1,11 @@
 #!/usr/bin/env bash
+
+export TOTAL_NUMBER=11187
+export EMBEDDING_SIZE=500
+export CPC_CLUSTER_MIN_NUM=3
+export TITLE_CLUSTER_MIN_NUM=100
+export ABSTRACT_CLUSTER_MIN_NUM=100
+
 python word_embedding/skip_gram_embedding.py
 
 python patent/cpc/cpc_embedding/cpc_phrase_embedding.py

@@ -1,11 +1,14 @@
 import json
 from tqdm import tqdm
+import os
+TOTAL_NUMBER = int(os.environ.get('TOTAL_NUMBER'))
+EMBEDDING_SIZE = int(os.environ.get('EMBEDDING_SIZE'))
 
 
 def candidate_synthesis(original_candidate_file, output_file):
     with open(original_candidate_file, 'r', encoding='utf-8') as f_in:
         candidate_phrase = []
-        for item in tqdm(f_in, total=20):
+        for item in tqdm(f_in, total=TOTAL_NUMBER):
             title_candidate = {}
             item = item.strip('\n')
             superspan = json.loads(item)

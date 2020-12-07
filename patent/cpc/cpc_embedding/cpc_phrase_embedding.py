@@ -7,7 +7,8 @@ import ipdb
 import pickle
 import logging
 logging.basicConfig(level=logging.DEBUG)
-
+import os
+EMBEDDING_SIZE = int(os.environ.get('EMBEDDING_SIZE'))
 
 def save_obj(obj, name):
     with open(name, 'wb') as f:
@@ -41,7 +42,7 @@ def cpc_phrase_embedding(word_embedding_file, cpc_phrase_file, output_file):
                     temp_phrase_item_embedding = word_embedding.wv[temp_phrase_item]
                     temp_phrase_embedding.append(temp_phrase_item_embedding)
                 if temp_phrase_embedding == []:
-                    final_phrase_embedding = np.zeros(500, dtype='float32')
+                    final_phrase_embedding = np.zeros(EMBEDDING_SIZE, dtype='float32')
                 else:
                     final_phrase_embedding = np.array(np.mean(temp_phrase_embedding, axis=0))
                 phrase_embedding[temp_phrase] = final_phrase_embedding

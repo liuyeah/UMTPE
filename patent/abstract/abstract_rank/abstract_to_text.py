@@ -1,6 +1,9 @@
 import pickle
 import json
 from tqdm import tqdm
+import os
+TOTAL_NUMBER = int(os.environ.get('TOTAL_NUMBER'))
+EMBEDDING_SIZE = int(os.environ.get('EMBEDDING_SIZE'))
 
 
 def save_obj(obj, name):

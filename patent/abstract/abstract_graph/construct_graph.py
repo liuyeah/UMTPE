@@ -4,6 +4,9 @@ import json
 from tqdm import tqdm
 import ipdb
 from scipy.spatial.distance import cosine, pdist, squareform
+import os
+TOTAL_NUMBER = int(os.environ.get('TOTAL_NUMBER'))
+EMBEDDING_SIZE = int(os.environ.get('EMBEDDING_SIZE'))
 
 
 def save_obj(obj, name):
@@ -22,7 +25,7 @@ def build_graph(super_sapn_file, phrase_embedding_file, output_graph_file, outpu
         super_span = json.load(f_in)
     phrase_embedding = load_obj(phrase_embedding_file)
     graph_number = 0
-    for spans in tqdm(super_span, total=20):
+    for spans in tqdm(super_span, total=TOTAL_NUMBER):
         # construct the basic graph
         graph = {}
         graph_embedding = []

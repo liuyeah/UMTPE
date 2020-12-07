@@ -8,6 +8,9 @@ import pickle
 from tqdm import tqdm
 import logging
 logging.basicConfig(level=logging.DEBUG)
+import os
+TOTAL_NUMBER = int(os.environ.get('TOTAL_NUMBER'))
+EMBEDDING_SIZE = int(os.environ.get('EMBEDDING_SIZE'))
 
 
 def save_obj(obj, name):
@@ -26,7 +29,7 @@ def phrase_embedding(cpc_title_embedding_file, word_embedding_file, abstract_phr
     word_embedding = Word2Vec.load(word_embedding_file)
     with open(abstract_phrase_file, 'r', encoding='utf-8') as f_in:
         abstract_phrase = json.load(f_in)
-    for item in tqdm(abstract_phrase, total=20):
+    for item in tqdm(abstract_phrase, total=TOTAL_NUMBER):
         for phrase_item in item['superspan']:
             temp_phrase = phrase_item.lower()
             temp_phrase_list = temp_phrase.split(' ')
@@ -42,7 +45,7 @@ def phrase_embedding(cpc_title_embedding_file, word_embedding_file, abstract_phr
                     temp_phrase_item_embedding = word_embedding.wv[temp_phrase_item]
                     temp_phrase_embedding.append(temp_phrase_item_embedding)
                 if temp_phrase_embedding == []:
-                    final_phrase_embedding = np.zeros(500, dtype='float32')
+                    final_phrase_embedding = np.zeros(EMBEDDING_SIZE, dtype='float32')
                 else:
                     final_phrase_embedding = np.array(np.mean(temp_phrase_embedding, axis=0))
                 phrase_embedding[temp_phrase] = final_phrase_embedding

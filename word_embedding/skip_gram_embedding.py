@@ -6,6 +6,8 @@ from gensim.models import Word2Vec
 from gensim.models.word2vec import LineSentence
 import logging
 logging.basicConfig(level=logging.DEBUG)
+import os
+EMBEDDING_SIZE = int(os.environ.get('EMBEDDING_SIZE'))
 
 def word_propress(cpc_path, title_path, abstract_path, claim_path, output_path):
     document = []
@@ -43,7 +45,7 @@ def word_propress(cpc_path, title_path, abstract_path, claim_path, output_path):
 def my_embedding(text_path, model_path):
     sentences = LineSentence(text_path)
     # these parameter is set for small example data, if you need to run on large datasets, you need set 'min_count=5'
-    skip_gram = gensim.models.Word2Vec(sentences, min_count=1, sg=1, hs=1, size=500, iter=10)
+    skip_gram = gensim.models.Word2Vec(sentences, min_count=5, sg=1, hs=1, size=EMBEDDING_SIZE, iter=10)
     skip_gram.save(model_path)
 
 def my_load_embedding():

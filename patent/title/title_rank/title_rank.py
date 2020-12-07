@@ -2,6 +2,9 @@ import numpy as np
 from scipy.spatial.distance import pdist, squareform, cosine
 from tqdm import tqdm
 import pickle
+import os
+TOTAL_NUMBER = int(os.environ.get('TOTAL_NUMBER'))
+EMBEDDING_SIZE = int(os.environ.get('EMBEDDING_SIZE'))
 
 
 def save_obj(obj, name):
