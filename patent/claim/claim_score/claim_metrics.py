@@ -123,9 +123,9 @@ def influence(node, sentence_text):
             continue
         else:
             influence_count = influence_count + 1
-    if influence_count == 0:
-        print('cannot find node: ' + node + '\t in:')
-        print(sentence_text)
+    # if influence_count == 0:
+        # print('cannot find node: ' + node + '\t in:')
+        # print(sentence_text)
         # ipdb.set_trace()
     return influence_count
 
