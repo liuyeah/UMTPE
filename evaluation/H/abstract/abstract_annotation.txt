@@ -1,0 +1,100 @@
+networked computer service, 3
+communication services, 3; netcentric computing system, 3; communication services, 3; messaging services, 3; specialized messaging services, 3; communication security services, 3; virtual resource services, 3; directory services, 3; transport services, 3; message transport services, 3; packet forwarding/Internetworking services, 3; circuit switching services, 3; transport security services, 3; network address allocation services, 3; quality of service services, 3; network media services, 3; media access services, 3; physical media services, 3
+video encoding, 5; decoding entities, 4
+dielectric fins, 3; gas cluster ion beam, 4; fin merging, 3; semiconductor ( silicon ) fins, 3; integrated circuit, 3; various finfet devices, 2
+electronic countermeasures, 3; radar jamming devices, 3
+traveling wave tube, 3; diameter enlargement, 2; traveling wave tube, 3
+power conversion, 4; power converter, 4
+cell phones, 2
+pixel circuit, 3; PMOS transistor, 4; photo-generated charge, 4; NMOS transistors, 4; snapshot imager, 3
+radio communication, 5; radio communication device, 4; measurement circuit, 3; determination circuit, 3
+loudspeaker frame, 3
+collectively frequency-converting terrestrial digital TV broadcast signals, 3; terrestrial digital TV broadcast signals, 3; VHF band, 3; TV broadcast, 4; wirelessly transmitting, 5
+apportioning server, 4; naming service, 3; naming service section, 3
+deteriorated layer, 3; pulse laser beam, 2; protective tape, 3; laser beam, 3
+drive control apparatus, 3; horizontal control section, 4; vertical control section, 4; scanning mirror, 3
+delay locked loop ( dll ), 2; input buffers, 1; multiplexer, 2; low pass filter, 3
+telecommunications equipment, 3; cross-connection modules, 3
+integrated circuit, 3; digital power supply regulation circuit, 3; analog power supply regulation circuit, 3; control logic circuit, 3; analog circuit, 3
+inspection apparatus, 1
+fluid heater, 2
+VoIP service, 3; Consumer premises equipment, 2
+encoding rate controlling apparatus, 3; controlling device, 2; quantizing the dynamic image information, 4; quantization scale code, 4; information encoding, 5; encoding rate controlling, 5; variable-length-encoding, 5; quantized dynamic image information, 4
+stopping chemical processing, 2; semiconductor wafer, 2; recycling the drained chemical, 3; chemical processing, 4
+metal-insulator-metal ( mim ) capacitor, 3; MIM capacitor, 3
+multimode josephson parametric converter, 4; multimode quantum limited amplifier, 4; Josephson parametric converter, 4;
+MOS transistor, 3
+movable electrode, 3; electric arc, 4; cooling circuit, 3; electric short circuit, 3
+auxiliary power supply equipment, 3; load circuit, 2; transmission link, 3; high frequency voltage generator, 3; voltage generator, 3
+de-blocking filter, 4
+Micro-Electro-Mechanical System, 3; MEMS, 3; stress gradient, 2
+semiconductor chip, 2
+flash EPROM array, 3; source decoding, 5; programmable sector, 2
+data communication network, 3; wireless and wired subnetworks, 3; wireless communication, 3; wired remote stations, 3; wireless network, 3; mobile RF terminals, 3; transparent bridging, 5; wired subnets, 3; wireless subnets, 3; remote stations, 3; standard IEEE 802 LANs, 5
+optimal nonlinear decoding, 5; optimal nonlinear decoding algorithms, 5; data acquisition applications, 3; Sigma Delta modulators, 3; Sigma Delta structures, 3; single and double loop, cascade and interpolative modulators, 3; decoding method, 5; table look-up, 5; conventional linear decoding, 5
+step motor, 4; carrying a carriage mounted with, 4
+variable ion mobility gaseous environment, 2; control circuit, 3; corona electrode, 3; corona-free electrode, 3
+Video coding, 5; Video coding and decoding, 5; Video coding and decoding methods, 4; video coding method, 4; video decoding method, 4; encoded video bitstream, 4; video coder-decoder, 5
+electrical cable, 2; electrical conductors, 2; electrical insulation, 4
+semiconductor workpiece, 2; semiconductor device, 2
+Li-containing phosphoric-acid compound sintered body, 3
+insulating resin composition, 3; impact resistance, 2; heat resistance, 2; plating metal, 3; permanganate salt, 1; plating operation, 5; insulating layer, 1; multilayer wiring boards, 1; insulating resin composition, 3; polymerizable resin composition, 3; crosslinked elastic polymer, 3; resin component, 1; crosslinked elastic poly, 2; said crosslinked elastic polymer, 3; carboxyl groups, 1; particle diameter, 1
+thermoacoustic array energy converter, 4; heat driven thermoacoustic prime movers, 3; acoustic cavity, 1; piezoelectric electrical generator, 3; energy storage element, 2; prime movers convert heat, 1; energy storage element, 1; prime movers, 1; convert heat, 3; phase-locked array, 1; piezoelectric element, 2; electric energy, 1; rectifier set, 3; electric energy, 2; power line frequency, 1
+non-acoustic alarm, 2; electromagnetic motor, 3; elastic coupling elements, 3; quasi-linear oscillating motion, 2; electromagnetic motor, 3
+color image processing, 5; thin-line enhancement module, 3; color image, 2; boundary enhancement module, 3; de-background module, 3; noise pixels, 2; scanning procedure, 3
+siloxane resin composition, 3; R1SiO3/2 siloxane units, 3; siloxane units, 3; R1, 3; alkyl group, 1; monovalent organic group, 1; branched alkyl group, 1; siloxane resin, 1; mole percent R1SiO3/2 units, 1; siloxane resin, 3; insoluble porous resin, 3; insoluble porous coatings, 3; siloxane resin, 3; temperature effects, 2; insoluble porous coating, 3; dielectric constant, 1
+BPSK type reception device, 3; digital input signal, 1; comparators, 2; clock signal, 1; clock generator, 3; clock signal, 1; clock signal, 1; data signal, 1; selection circuit, 3; pulse edge, 1; clock signal, 1; clock signal, 1; clock pulse edge, 1; clock comparator, 3
+installation protocols, 2; authentication protocols, 2; non-physical connection, 2; physical interface component, 2; physical connection, 2; wireless device, 3; network entity, 2; installation protocols, 2; authentication protocols, 2; physical interface component, 2; non-physical connections, 2; wireless devices, 3; physical interface component, 2; daisy chain scheme, 2; wireless device, 3
+integrated circuit, 3; electrical connections, 2; electrical connections, 2
+an apparatus, 1
+thin film transistor, 2; organic semiconductor material, 2; tetracarboxylic diimide naphthalene-based compound, 2; imide nitrogen atoms, 1; aromatic moiety, 1; electron donating group, 1; organic thin-film transistor device, 2
+radio transmission, 5; multiple antennas, 2; transmission signal, 2; power amplifier, 2; data signal, 1; transmit antennas, 2; antenna signals, 2; pilot signals, 2; data signal, 2; phase shifts, 4
+uplink synchronization, 4; network equipment, 3; multi-carrier operation mode, 3; component carrier, 3; network equipment, 3; TA timer, 2; TA group, 2; TA group information, 2; maintenance mechanism, 2; uplink synchronization, 4; multi-carrier system, 3
+optical amplifier, 4; light signal, 2; optical light amplifier unit, 3; tunable wavelength filter, 3; signal light detection unit, 3; control circuit, 3; optical amplifier unit, 3; input light signal, 2; amplified light signal, 2; tunable wavelength filter, 3; amplified light signal, 2; transmission light wavelength, 1; filter output signal, 2; signal light detection unit, 3; signal light level, 1; amplified output component, 3; amplified light signal, 2; input light signal, 2; control circuit, 3; optical amplifier unit, 3; signal light level, 1; signal light detection unit, 3; optical amplifier, 4; peak detection unit, 3; background light detection unit, 3; peak detection unit, 3; peak light level, 1; filter output signal, 2; background light detection unit, 3; background light level, 1; filter output signal, 2
+electrical interconnections, 5; electrical device, 4; contact pads, 3; contact pads, 3; contact pads, 3; contact pads, 3; conductive material, 2; conductive material, 2; columnar members, 1; columnar members, 1; offset contact pads, 3
+inverter system, 4; control configuration, 4; electric power, 3; circuit section, 3; control signal, 2; control circuit, 3; inverter control signal, 2; control circuit section, 3; control circuit section, 3; signal input, 1
+charging control circuit, 3; electronic timepiece, 4; power source circuit, 3; charging device, 3; secondary battery, 4; electronic timepiece circuit, 3; drive signal change-over circuit, 3; alarm signal, 1; warning signal, 1; buzzer driving circuit, 3; buzzer sound, 3; time alarm, 3
+solar cell, 4; silicon wafer, 2; insulating layer, 2; silicon wafer, 2; crystal growth, 2; monocrystalline silicon, 1; selective epitaxial growth, 2; lateral crystal growth, 2; electrode layer, 1; monocrystalline silicon regions, 1; electrode layer, 1; monocrystalline silicon regions, 1; silicon wafer, 1; counter electrode, 1; monocrystalline silicon regions, 1
+client device, 4
+multiple antennas, 3; mobile device, 3; mobile device, 3; protocol stack, 2; mobile device, 4; protocol stack, 2; mobile device, 4; mobile device, 4; protocol stack, 2; protocol stack, 2; protocol stack, 2; multiple antennas, 3; protocol stack, 2; protocol stack, 2
+multiple calls, 5; telecommunications network, 4; toll telecommunications network, 4; pay telephone, 4; single carrier, 3; telecommunications network, 4; toll-free call, 4; caller actuating, 5; dial tone, 2; single carrier, 3; telephone number, 2; telecommunications network, 4; caller, 2; pay telephone, 3; toll carrier, 3; network apparatus, 3; application server, 3; speech recognition, 5; tone signal receivers, 3; voice querying, 5; response system, 3
+network devices, 3; machine-readable media, 3; integrated environment, 3; automated processing, 5; suspicious messages, 2; phishing attacks, 3; distributing information, 2
+microchannel plates, 3; optical fibers, 3; non-etchable material, 2; etchable material, 2
+concave reflector, 2; optical axis, 1; electric lamp, 2; light source, 1; light beam, 1
+illuminating device, 2; cylindrical lens, 2; light incidence surface, 1; light emission surface, 1; longitudinal direction, 1; light source, 1; paraxial virtual image, 5
+quadrature phase shift keying, 5; quadrature phase shift, 3; RF, 3; filter, 3; transmitted signal, 2; digital conversion, 3; frequency multiplication, 5; Frequency division, 5
+electric generator, 3; pulsed air, 1; pulsed-air exhaust device, 3; pressure chamber, 3; magnetic member, 2; magnetically interact, 2; spring-back force, 2; biasing member, 2; operative communication, 2
+multiple layered structure, 2; etching, 5; dielectric material, 2; wiring layers, 2; protective film, 2; electrical probe, 2; electrical testing, 3; laser energy, 2
+solid-state imaging device, 4; solid-state imaging, 5; signal line, 2; operating period, 1; intermediate potential, 1; power-supply, 2
+electromechanical translation apparatus, 3; driving force, 1; clamping force, 2; piezoelectric driving elements, 2; variable clamping force, 1; electromechanical apparatus, 2; sliding motion, 1
+memory cell, 1; current mirror configuration, 2; controlled application of current, 5
+supplementary service functions, 3; communication network, 3; multi-server network, 3; retrieval request unit, 1; exception handler, 2
+image display device, 2; pointing device, 2; pointing signal, 2; selection signal, 1
+semiconductor material, 2; dielectric liner, 1; epitaxy process, 5; semiconductor fins, 2; dielectric liner, 2
+remote video images, 2; video images, 1; combined video image, 2; image processing operation, 5; overlay operation, 3; single image, 1
+amplitude modulated ( AM ) signal, 2; envelope values, 2; AM signal, 2; output signal, 2
+monocrystalline silicon, 2; nucleation sites, 1; substrate, 1; oxide mask, 2; substrate surface, 1; dichlorosilane, 1; hydrogen chloride, 1; flat profile, 1
+image processing, 5; image processing condition, 4; test image, 1; calibration, 1; engine characteristic, 2; printing characteristic, 2; plural calibrations, 1
+voice calls, 1; phone numbers, 1; mobile device, 2; wireless carrier, 2; contact information, 1; incoming voice call, 1
+Digital calibration, 5; A/D converter, 2; analog signal, 1; digital signal, 1; calibration value, 2; calibration coefficient, 2; digital converted signals, 2; analog converted signals, 5
+Electrical power, 2; Electrical power generation systems, 3; electrical power distribution, 3; electrical power distribution arrangement, 3; electrical power generators, 3; electrical power generator, 2; voltage controller, 2; electrical current controllers, 2; electrical distribution system, 3; electrical voltage margin, 1; operational voltage, 1; electrical power distribution arrangements, 4
+retention-extraction device, 1; removable card, 1; actuation rod, 1; cam slot, 3; bell crank, 1; cam follower, 2; latch hook, 1; bell crank, 2;
+title frame, 2; recording device, 1; broadcasted television transmission, 3; graphic treatment, 4;
+woven electrical multi-conductor cable, 2; alternating longitudinal sections, 2; uni-directional routing, 5; omni-directional routing, 5;
+electrical connector, 1; stiffener, 2; load plate, 1;
+RFID antenna, 1; device-specific RFID transponder, 1;
+end-to-end system/process, 1; biomass feedstock, 2; biochar generation, 5; charring furnace, 2; ultra-capacitor electrodes, 2;
+microelectronic device, 1; solder joint, 1;
+multi-channel encoder, 3; multi-channel output signal, 1; multi-channel reconstruction, 5;
+non-aqueous electrolyte, 2; positive electrode, 1; sodium oxide, 2; molar amount, 1;
+generating unit, 1; encrypting and decrypting data, 5; decrypting data, 5;
+synchronous demodulator, 2; push-pull output, 1; emitter-coupled transistor, 2; collector circuit, 1;
+ferrite substrate, 1; internal coil patterns, 1; foaming resin, 1; magnetic permeability, 1; electromagnetic shielding components, 2;
+acoustic source, 1; variable gain block, 1;
+multicell battery, 1; electronic communication, 3; electric power, 1; end-of-charge signals, 1;
+piezoelectric vibrator element, 1; excitation electrodes, 1;
+electrical storage stack, 1;
+interference removing arrangement, 3;
+vertical non-linearity, 1; television projection system, 1; vertical deflection yokes, 1;
+data entry field, 1; input interface, 1;
+image recording apparatus, 3; image recording unit, 3; recording sheet, 1;

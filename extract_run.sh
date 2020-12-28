@@ -18,6 +18,7 @@ python patent/title/title_score/title_metrics.py
 python patent/title/title_score/title_score_normalize.py
 python patent/title/title_rank/title_rank.py
 python patent/title/title_rank/title_to_text.py
+python patent/title/title_rank/title_selection.py
 python patent/title/title_clustering/title_clustering.py
 
 python patent/abstract/abstract_candidate/candidate_synthesis.py
@@ -27,6 +28,7 @@ python patent/abstract/abstract_score/abstract_metrics.py
 python patent/abstract/abstract_score/abstract_score_normalize.py
 python patent/abstract/abstract_rank/abstract_rank.py
 python patent/abstract/abstract_rank/abstract_to_text.py
+python patent/abstract/abstract_rank/abstract_selection.py
 python patent/abstract/abstract_clustering/abstract_clustering.py
 
 python patent/claim/claim_candidate/candidate_synthesis.py
@@ -36,5 +38,10 @@ python patent/claim/claim_score/claim_metrics.py
 python patent/claim/claim_score/claim_score_normalize.py
 python patent/claim/claim_rank/claim_rank.py
 python patent/claim/claim_rank/claim_to_text.py
+python patent/claim/claim_rank/claim_to_text.py
 
 python result/select_phrase.py
+
+python evaluation/F/IRE.py
+python evaluation/F/prf.py
+python evaluation/F/whole_prf.py

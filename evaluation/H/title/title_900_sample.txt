@@ -1,0 +1,900 @@
+elastic wave device with integrated inductor
+method for using computer system memory as a modem data buffer by transferring modem i/o data directly to system controller and transferring corresponding system controller data directly to main memory
+system and method for transmitting personal networking-based blog post , and server applied to the same
+system and method for generating an information display schedule for an electronic program guide
+methods of forming a conductive transparent oxide film layer for use in a cadmium telluride based thin film photovoltaic device
+capacitor charging methods and apparatus
+self ballasted lamp including a fuseable device
+method and arrangement for configuring csi measurements
+pre-tr high power/intermediate power stage apparatus
+backside illuminated msm device
+4dhelp mobile device for 4dhelp information distribution system
+microphone with stepped response
+overmolded electrical connector
+battery arrangement for use in a motor vehicle
+semiconductor device provided with an ie type trench igbt
+permanent magnet type stepping motor
+terminal assembly for an electric machine
+apparatus for confirming fitting of electric connector
+method of forming an array of electron emitters
+high-molecular-weight polyazoles used as proton conducting membranes
+methods of making telecommunications cable
+electronic volume control circuit
+method and apparatus for selecting disabling music on hold in a telecommunication system
+stepping motor
+very low-input capacitance self-biased cmos buffer amplifier
+optical receiver and optical transmission system
+phase change memory cell with constriction structure
+bi- and tri-layer interfacial layers in perovskite material devices
+apparatus for processing on-screen display and system for reprogramming camera module having the same
+dynamic generation of color look-up tables
+bipolar semiconductor devices with implanted recombination region
+method of operating a power supply and communication entity and an actuator which are intended to form part of a home-automation system
+photovoltaic module
+control circuit for driving step motor
+cmos adjustable over voltage esd and surge protection for led application
+telephone instrument and method for altering audible characteristics
+trench device isolation structure
+method for improving acoustic sidetone suppression in hands-free telephones
+carrier handling system
+method for filling of nanoscale holes and trenches and for planarizing of a wafer surface
+queuing status reporting apparatus
+power supply device and method of controlling the same
+microwave surface mount hermetically sealed package and method of forming the same
+semiconductor device and method of forming the same
+backplate for securing a circuit card to a computer chassis
+methods of fabricating applique circuits
+amorphous silica powder , process for its production , and sealing material for semiconductors
+assisting conversation while listening to audio
+strap with charging and data transmitting function
+cathode material for electrochemical cells
+semiconductor processing methods of forming contact openings , methods of forming memory circuitry , methods of forming electrical connections , and methods of forming dynamic random access memory ( dram ) circuitry
+wire harness manufacturing method and wire harness
+geneva mechanism and motion picture projector using same
+cable connector assembly with strain relief member
+solar cell module and portable electronic apparatus with it
+method for fabricating a semiconductor package and semiconductor package
+autostereoscopic system
+high density nanowire array
+method and apparatus for storing and processing picture information of temporally successive pictures
+electrical connector incorporating passive circuit elements
+method of manufacturing a semiconductor device
+key controlled block-cipher cryptographic system employing a multidirectional shift matrix
+porous and dense hybrid interconnect structure and method of manufacture
+multi-mode video standard selection circuit and selection method
+phase tracking loop impairment monitor for modems
+mail printing system with printer selecting function
+non-volatile semiconductor memory devices and methods for manufacturing the same
+versatile source port enforcement for data networks
+fin structure of finfet
+light-emitting element , light-emitting device , and lighting device
+linear transconductance amplifier
+image encoding method , image encoding apparatus and storage medium
+transition-edge sensor with enhanced electrothermal feedback for cryogenic particle detection
+electrical box with mounting system
+programmable logic device with carry look-ahead
+circuit card assembly conduction converter
+system and method for creating and managing object credentials for multiple applications
+case for portable device and method of controlling an operation of turning a screen of the portable device on and off by using same
+camera opening for smartphone battery case to reduce flash glare
+high performance metal gate polygate 8 transistor sram cell with reduced variability
+power source apparatus and vehicular lamp
+system and method for modular on-demand audio processing , amplification and distribution
+non-volatile ferromagnetic memory having sensor circuitry shared with its state change circuitry
+system and method for scheduling variable bit rate ( vbr ) streams in a wireless communications system
+method of manufacturing a resin-sealed semiconductor device
+multiple wavelength bidirectional lightwave amplifier
+circuit breaker with center trip position
+system , method and computer program product for detecting a rogue member in a multicast group
+anisotropic etch process for tungsten metallurgy
+electrical circuit for delivering power to consumer electronic devices
+method and system for accessing network through public device
+timing apparatus and method to selectively bias during sputtering
+method of correcting faults in an opto-mechanical scanning camera and a camera using the method
+electrical connector and manufacturing method thereof
+voltage mode driver with enhanced transmit hybrid circuit
+method and apparatus for shoot suppression in image detail enhancement
+network configuration optimization
+cyclical deposition of germanium
+digital loop diagnostic port control monitor
+electromechanical memory array using nanotube ribbons and method for making same
+transpiration cooling and fuel cell for ultra mobile applications
+normally-off semiconductor device with low on resistance and circuit analogue
+light-emitting device using a group iii nitride compound semiconductor and a method of manufacture
+circuit board transferring apparatus and method and solder ball mounting method
+metallization structure , and associated method , to improve crystallographic texture and cavity fill for cvd aluminum/pvd aluminum alloy films
+dealing board
+smart laser with fast deformable grating
+switching regulator for fixing frequency
+combined aligner blender
+transmission power control method of measuring eb/n0 after weighted signals are combined
+forward error correction for 64b66b coded systems
+display device , display unit , and imaging device
+installation structure of parallel wire on board
+method for improving the magnetic properties of fe-based amorphous-alloy thin strip
+method for implementing a wireless local area network ( wlan ) gateway system
+liquid crystal display comprising liquid crystal lens driven at a first time period and a second time period
+adaptive beam pattern antennas system and method for interference mitigation in point to multipoint rf data transmissions
+thermal transfer sheet for ion source
+wireless charging system
+efficient search for wireless networks while minimizing page loss
+portable wireless receiver
+heat-decaying materials , transfer sheet using the same , and patterning method
+digital service unit
+high frequency amplifier linearization technique
+home network controller with remote user interface wrapper of discovered multimedia content
+method and apparatus for canceling acoustic echo in a mobile terminal
+charge coupled device ( ccd ) semiconductor chip package
+method for fabricating sram polyload resistor
+method and apparatus to support application and network awareness of collaborative applications using multi-attribute clustering
+method of manufacturing semiconductor device
+direction control key assembly
+semiconductor apparatus and method of manufacturing the same
+analog ethernet detector having first logic circuit and second logic circuit coupled to output signal detectors to determine ethernet and non-ethernet signals
+method of manufacture of ceramic arc tubes
+method for manufacturing an annular component in the form of wound ferromagnetic tape provided with slots at an end face for use in an electrical axial-field machine
+determination of permanent magnetic flux in an electric machine
+tuning voltage display device for a color television receiver with an electronic tuner
+flying spot scanner with plural lens correction
+method for transmitting/receiving signal and device therefor
+small electric motor
+electronic automation system
+system and method for implementing high-resolution delay
+method and apparatus for processing video signals
+de-modulation of mok ( m-ary orthogonal modulation )
+cam heat sink clip installation and removal tool and method
+systems and methods for controlling purchasing and/or reauthorization to access content using quick response codes and text messages
+high brightness led package with multiple optical elements
+recording medium , recording apparatus and recording method for recording data into recording medium , and reproducing apparatus and reproducing method for reproducing data from recording medium
+two dimensional photonic cluster state generator from sequential photons with variable delay loopback
+thermally protected lamp holder housing for use in recess lighting fixtures
+non-tactile switch
+clock driver circuit and semiconductor integrated circuit device incorporating the clock driver circuit
+image processing apparatus in which the operating mode of either a color or monochromatic image data processing means is set by command data prior to receipt of either color or monochromatic image data
+alloy preparation of hydrogen storage materials
+decoder circuit of erasable programmable read only memory for avoiding erroneous operation caused by parasitic capacitors
+movable connector
+liquid crystal apparatus having an anisotropic conductive layer between the lead electrodes of the liquid crystal device and the circuit board
+method to reduce defects in shallow trench isolations by post liner anneal
+chemical synthesis of monodisperse and magnetic alloy nanocrystal containing thin films
+power adaption in a multi-station network
+low profile high current multiple gap inductor assembly
+elliptically polarizing adjustable phase insertion device
+wafer level package having a pressure sensor and fabrication method thereof
+wavelength division multiplexing light transmitting system
+break-away positioning conveyor mount for accommodating conveyor belt bends
+traction battery thermal management method and system
+method of forming semiconductor layer and semiconductor light emitting device
+rotor for permanent magnet-excited , high-speed electric machines and electric machine equipped with this rotor
+heating blankets and the like
+optical system and image pickup apparatus
+error correcting code for 8-bit-per-chip memory with reduced redundancy
+method and device for activating and de-activating uplink of secondary cell of terminal
+electrodes and their lead structures of an ultrathin piezoelectric resonator
+vacuum pencil holder with turnable wand stand
+method for making a semiconductor device comprising a dual metal gate using a chemical mechanical polish
+gate metal recess for oxidation protection and parasitic capacitance reduction
+location and monitoring of undersea cables
+multi-sound audio interface system
+thermal current limiting controller
+semiconductor device
+connector provided with front holder
+apparatus and method for transmitting packet data using walsh codes in a mobile communication system
+laminated ceramic electronic component
+method and device for visualizing the surroundings of a vehicle by fusing an infrared image and a visual image
+data communications cable with wireline capacitance compensation
+semiconductor device having a redundant circuit and method of manufacturing thereof
+object-oriented method , system and medium for risk management by creating inter-dependency between objects , criteria and metrics
+using voice over ip or instant messaging to connect to customer products
+universal connector with interchangeable male and female sleeves for use in network analyzers and microwave devices
+atm cell switching system
+thin film transistor substrate and method of manufacturing the same
+system for analysis and design of direct digital frequency synthesizers
+electrophotographic apparatus
+electrical connector
+electrical power transmission system and electrical power output device
+in-line predistorter for linearization of electronic and optical signals
+plasma processing apparatus and plasma processing method
+method and apparatus for transmitting control information
+gas barrier substrate and organic electro-luminescent device
+mobile backhaul topology planning and/or optimization
+apparatus and method to capture image and other data and recording onto multiple recording medium
+still image producing method and still image capture system
+apparatus and method for washing substrates
+method for handling a module ic and a carrier of a module ic handler
+system and method for associating presented digital content within recorded digital stream and method for its playback from precise location
+system and method for compressing and encoding data
+methods , systems and computer program products for providing transactional quality of service
+metallized tubule-based artificial dielectric
+apparatus for finishing inside diameter of work
+sealing device
+direct phase digitization
+method for producing a piezoelectric/electrostrictive actuator
+system and method for emulating a telephony driver
+constant brightness control for electro-luminescent lamp
+solder process and solder alloy therefor
+devices and methods for improving the image quality in an image sensor
+electric cells using fluorinated graphite as active material of positive electrode
+selective removal of tixny
+camera tube having photocathode absorptive of shorter wavelength and filter absorptive of longer wavelength light
+method and apparatus for image encoding using hold-mbs , and method and apparatus for image decoding using hold-mbs
+cryocooler system and superconducting magnet apparatus having the same
+semiconductor memory device having novel layout pattern
+parallel scaling engine for multi-view 3dtv display and method thereof
+diffusion bias control for improving sensitivity of cmos active pixel sensors
+electric double-layer capacitor with a negative electrode containing a carbon material and a titanium oxide
+digital camera method therefor for initiating dust removal operations responsive to live view operation states
+electrodeless discharge lamp operating apparatus
+hearing aid with automatic excessive output sound control
+semiconductor structure having buried gate structure , method for manufacturing the same , and memory cell having the same
+high breakdown voltage double-gate semiconductor device
+micro-electromechanical liquid ejection device with motion amplification
+motor activating circuit device and refrigerator
+facsimile apparatus with ink cartridge and residual ink detection function
+switched current power converter with reduced power losses during low load conditions
+wireless electronic devices with a metal perimeter including a planar user input component
+dedicated function block interfacing with general purpose function blocks on integrated circuits
+wafer level package having floated metal line and method thereof
+system and method for dynamic vlan assignment
+communication control apparatus and method
+automatic color balance
+ion source and mass spectrometric apparatus
+epoxy resin composition
+method and apparatus for coding video and method and apparatus for decoding video , using intra prediction
+protective sleeve and method of assembling the protective sleeve to an object to be protected
+female socket contact
+method for making smart cards , and resulting cards
+housing support
+control of handover and transmission power control of mobile station in a mobile telecommunications system
+system and method for displaying presentations based on codes written to and read from rfid tags
+method of producing a piezoelectric thin film and bulk acoustic wave resonator fabricated according to the method
+image data processing apparatus
+radio frequency identification tag antenna using proximity coupling for attaching to metal
+electronic media program recognition and choice
+chip package solder interconnect formed by surface tension
+interactive heads up display ( ihud )
+multitool with wire stripping element
+injecting cpu time jitter to improve entropy quality for random number generator
+device for winding toroidal deflection coils
+secure cloud based multi-tier provisioning
+rtp-formated media clips
+ue , filtering method thereof and computer-readable recording medium
+self-scanned photodiode array with selectively-skipped pixels
+transfer control point , mobile telephone fixed terminal and switch capable of being used in a device for connecting a telephone switch located in an isolated community to a fixed telephone network
+random access power adapter arrangement
+system for improving the quality of a received radio signal
+machine for forming trenches for pipelines or the like in the sea bed
+hinged read-out antenna system
+image frame fusion by velocity estimation using region merging
+device for metal welding
+signal amplification system with automatic equalizer
+method of making a circuitized substrate using two different metallization processes
+energy monitoring system using network management protocols
+dc to dc converter
+method of producing an inductor
+method of making rotor and stator pole assemblies by stamping magnetic plate
+support structure for high-voltage conductors
+enhanced frequency hopping in a wireless system
+low-quiescent-current buffer
+controlled rectifier having ring gate with internal protrusion for dv/dt control
+content management with biometric feature recognition
+vision system for a vehicle
+method of connecting an additive communication cable to an electrical harness
+high-speed analog-to-digital conversion with improved robustness to timing uncertainty
+base station protector assembly for surge protection
+operational amplifier circuit with improved gain of feedback loop
+monodisperse aerosol generator for use with infrared spectrometry
+method of fabricating polarizing member , and method of fabricating liquid crystal display including polarizing member
+self-refresh on-chip voltage generator
+radio frequency network having plural electrically interconnected field effect transistor cells
+adaptive control for mitigating interference in a multimode transmission medium
+terminal device , center device and system for controlling audio and video distribution
+optical link module
+magneto-optical head assembly with improved detection means
+image correction apparatus and image correcting method
+selectable continuous and burst mode backlight voltage inverter
+method of fabricating soi substrate having an etch stop layer , and method of fabricating soi integrated circuit using the same
+semiconductor device and method of manufacturing semiconductor device
+array substrate and display panel
+aromatic diamine and polyimide , and preparation process of same
+method and apparatus for implementing common mode cable noise suppression for medium range frequencies
+back emf reduction in a storage drive using pulse width modulation in a closed loop motor control system
+methods of forming stressed channel regions for a finfet semiconductor device and the resulting device
+finfets with different fin height and epi height setting
+shock-absorbing device for a microphone stand
+fiber optic rotary joint
+stream cipher operation using public key cryptosystem
+overflow error diffusion
+semiconductor integrated circuit device having multilevel interconnection
+system for communicating location of survivors in mine emergencies
+accumulated power consumption sensor : application in smart batteries systems
+modulation system using encoding tables and method therefor
+audio mixing console
+facsimile device and a facsimile device monitoring system
+peak-to average power ratio reduction for wireless communication systems
+hybrid terrain-adaptive lower-extremity systems
+method for limiting movement in electrical contactors
+epitaxial growth of in-plane nanowires and nanowire devices
+remote access to a mobile communication device over a wireless local area network ( wlan )
+atm apparatus , ip apparatus and bus system
+node grouping method , node , and access point
+soft-switched built-in active snubber circuit
+distributed wireless speaker system with automatic configuration determination when new speakers are added
+electricity storage device
+array of light-emitting elements with multilayer wiring
+x-ray tube target having pyrolytic amorphous carbon coating
+method and a device for enabling a mobile terminal to access to a wireless cellular telecommunication network
+photovoltaic cell and photovoltaic cell manufacturing method
+dynamic duty-cycling of processor of mobile device based on operating condition of mobile device
+current source methods and apparatus for light emitting diodes
+electrical connector with latch
+resistive memory device , method of fabricating the same , and memory apparatus and data processing system having the same
+light-emitting systems
+method and apparatus for maintaining a constant load current with line voltage in a switch mode power supply
+matched analog cmos transistors with extension wells
+method and apparatus for qp modulation based on perceptual models for picture encoding
+in-line pacemaker connector system
+methods and systems for communicating data at radio base station nodes that provide efficient allocation of control timeslots
+system and method for implementing a routing scheme in a computer network using intention packets when fault conditions are detected
+micro-led array with filters
+glass fiber nonwoven fabric and printed wiring board
+device for propagating radio frequency signals in planar circuits
+hybrid node
+semiconductor wafer inspection apparatus and semiconductor wafer inspection method
+surface-mounting semiconductor device and method of making the same
+telephone line circuit hold arrangement
+electron gun with one directly heatable and one indirectly heatable cathode
+air deflectors for heat management in a lighting module
+power conversion with switch turn-off delay time compensation
+robot docking station and robot for use therewith
+overvoltage protecting element
+methods , systems , and computer program products for sorting electronic-mail messages
+digital-to-analog converter
+loudspeaker horn
+distributed execution process for an interactive multimedia program , and a local station using this method
+method of making modular protector assemblies for oil-filled submergible electric motors
+testing for defective manufacturing of microphones and ultralow pressure sensors
+methods and apparatus for providing a platform coexistence system of multiple wireless communication devices
+magnetic coupler
+method of manufacturing semiconductor memory element
+vcsel structure insensitive to mobile hydrogen
+through hole insertion type electronic component and method of packaging same
+electric power connector adapting structure
+wideband oscillator with automatic bias control
+channel estimation in wireless communication
+systems and methods for performing network service insertion
+emitter structure based on silicon components to be used in a photovoltaic converter and a method for production of the photovoltaic device
+data streaming method and apparatus using adaptive transmission scheduling
+battery adapter for night vision device
+plasma etching apparatus
+resolver with waterproofing elements
+his data compression
+method and system for packet reassembly based on a reassembly header
+dc offset correction in a mobile communication system
+non-volatile memory module
+electrical connector
+circuit and method for finding the sampling phase and canceling precursor intersymbol interference in a decision feedback equalized receiver
+method and system for source only reoxidation after junction implant for flash memory devices
+adaptive autostereoscopic display system
+television reception system , channel selection apparatus and display apparatus
+method and user interface for downloading audio and video content filters to a media player
+multi-band broadband planar antennas
+highly selective etching methods for etching dielectric materials
+digital data transmitting apparatus
+image intensifier tube
+electrically supported steering boost with compact spur gear arrangement
+flat light source
+collaboration data proxy system in cloud computing platforms
+antenna apparatus having magnetic-current-type and electric-field type antenna
+true information television ( titv ) and vision system
+cable stripping tool
+plasma generation system having a refractor
+locking system for an enclosure containing electrical equipment therein
+notch filter implemented using analog sampling
+system level latchup mitigation for single event and transient radiation effects on electronics
+process for fabricating a semiconductor component support , support and semiconductor device
+solid-state imaging devices with impurity regions between photoelectric conversion regions and methods for manufacturing the same
+fuel cell apparatus
+service-assisted network access point selection
+methods for manufacturing a semiconductor device
+control circuit for controlling decorative light string
+system and method of creating digital recordings of live performances
+co-axial motorized wafer lift
+contour surface cooling of electronics devices
+dimensionally stable laminated printed circuit cores or boards and method of fabricating same
+video generation and capture techniques
+p-domino register with accelerated non-charge path
+starting source for arc discharge lamps
+integrated circuit , variable filter adjusting method therefor , and electronic equipment using the same
+method and apparatus for combining light paths of like-colored light sources
+silver mica block condenser and method of making the same
+compact electromagnetic relay , particularly for automotive vehicles
+adaptive boost switching preregulator and method
+reflow soldering apparatus and method for selective infrared heating
+temporary decoder apparatus and method
+method for forming a recess portion on a metal plate
+interconnect structure and method of fabricating same
+methods and apparatus for integrated voice communication
+managing captured network traffic data
+automatic planning for medical imaging
+laminating process and apparatus
+memory system and error correction method
+system and method for data security on big data sets
+cable entry device comprising means for adjustment
+air-conditioning system for vehicle
+independent processing of data streams in codec
+method and apparatus for inter-application communication in wireless networks
+flextensional transducer assembly and method for its manufacture
+method and apparatus for transmitting digital data
+dc-dc converter and semiconductor device
+interference signal decoupling on a printed circuit board
+structure of quantum dot light emitting diode and method of fabricating the same
+sliding surface bearing for high loads
+electric motor control having dc-dc converter and method of using same
+selective modification of antenna directivity pattern to adaptively cancel co-channel interference in tdma cellular communication system
+adaptic threshold filter and method thereof
+pushbutton keyboard switch assembly having individual concave-convex contacts integrally attached to conductor strips
+system and method for executing commands associated with specific virtual desktop
+semiconductor device including polysilicon resistor and metal gate resistor and methods of fabricating thereof
+compound and organic light-emitting device including the same
+advanced piezoceramic power switching devices employing protective gastight enclosure and method of manufacture
+luminescent ceramic for a light emitting device
+performing searches using computing devices equipped with pressure-sensitive displays
+method for fabricating a field emission device
+multiple-time programming apparatus and method using one-time programming element
+sputtering target for phase-change memory , film for phase change memory formed by using the target , and method for producing the target
+valve and wire cutting , skinning and wrapping tool employing the valve
+thyristor with multiple groups of insulated control electrodes
+movie discovery system
+method , apparatus , and manufacture for a tracking camera or detector with fast asynchronous triggering
+data recovery unit ( dru ) based on free running oversampling with zero-latency loop
+load balancing using a distributed hash
+texture-based packing , such as for packing 16-bit pixels into four bits
+reflector packages and semiconductor light emitting devices including the same
+laminated thermo element
+low cost broad range loudspeaker and system
+printed circuit board and method of manufacturing the same
+multi-disk player with automatic volume control
+set volume control device for on-vehicle audio system
+one-transistor fully static semiconductor memory cell
+light source apparatus using field emission cathode
+method for manufacturing semiconductor device having groove-type isolation area
+cable utilizing varying lay length mechanisms to minimize alien crosstalk
+image transfer device
+system capable of integrating user-entered game event data with corresponding video data
+graphite lid seal fixture
+protocol information processing system and method information processing device and method recording medium and program
+ic socket for a fine pitch ic package
+method and apparatus for high-speed data transfer employing self-synchronizing quadrature amplitude modulation
+method for managing administrative relationship between account and device
+timestamp in performance benchmark
+secondary battery
+anisotropic magnet and process of producing the same
+method in the fabrication of organic thin-film semiconducting devices
+forward discrete/inverse-discrete fourier transform device and method for optical ofdm communication and transmitting and receiving apparatus comprising the device
+method for producing lamps
+driver circuit , receiver circuit , and semiconductor integrated circuit device
+reverse metal process for creating a metal silicide transistor gate structure
+multi-band antenna suitable for use in a mobile radio device
+path weighted equal-cost multipath
+apparatus and method for connecting components
+methods , systems , and computer program products for implementing bandwidth management services
+method of transmitting data in a communication system
+gapped-plate capacitor
+apparatus with direct cooling pathway for cooling both sides of power semiconductor
+infrared sensor and manufacturing method thereof
+optical amplifier
+plastic capacitive touch screen and method of manufacturing same
+submersible/sterilizable battery
+method for manufacturing ferroelectric film
+distance detection system for vehicles
+raster distortion avoidance arrangement
+semiconductor device having nanowire contact structures and method for its fabrication
+variable capacitance push-button switch
+dynamic bandwidth estimation and adaptation in high speed packet switching networks
+transmitting apparatus , receiving apparatus , communication system , transmission method , reception method , and communication method
+3:2 pulldown detection
+vibration filling of foam-structure and fiber-structure electrode filling of foam-structure and fiber-structure electrode plaques with aqueous cadmium oxide paste of high flowability
+bus line conductor container and gas insulated switchgear device using the same
+printed pattern defect repair sheet , and repair device and method for printed pattern defect
+electrical connector feeding apparatus
+electronic device with integral connectors
+virtual av network building device , virtual av network building method , and recorded medium on which program concerning virtual av network building method is recorded
+roaming interworking gateway for mobile telecommunications systems
+process for manufacturing a cmosfet intergrated circuit
+two step electro chemical and chemical etch process for high volt aluminum anode foil
+uniformity correction signal generating apparatus for display image
+method for producing indicators and processing apparatus and system utilizing the indicators
+procedure for setting a hearing aid , and hearing aid
+edge sector handoff determination
+estimating traffic values or intervals for network topology and network behaviour
+linear inductive plasma pump for process reactors
+identification and/or authentication method
+amplifying a signal using a control modulator that provides a bias resistance
+pcm to digital pwm using predistortion
+lithium ion secondary battery and method for producing the same
+configurable heating pad controller
+multiple integrated circuit interconnection arrangement
+wireless chip for chip-to-chip wireless transfer
+electrochromic element
+robotic systems and methods
+single wire interface for an analog to digital converter
+electronic generator for air purification
+6f2 dram array with apparatus for stress testing an isolation gate and method
+feature-vector generation apparatus , search apparatus , feature-vector generation method , search method and program
+transformer control device and method based on three-dimensional zone diagram policy
+method of manufacturing a shallow trench isolation alignment mark
+semiconductor device and method of manufacturing the same
+resistor with temperature coefficient of resistance ( tcr ) compensation
+resettable latch mechanism
+undercut and residual spacer prevention for dual stressed layers
+beta phase pvf.sub.2 film formed by casting it onto a specially prepared insulating support
+ic chip mounting method
+trusted evidence cameras and related methods and computer program products
+representing entitlements to service in a conditional access system
+method and apparatus for calibrating multiple microphones
+flexible mobile ip foreign agent architecture for enabling converged services
+method and apparatus for detecting a sampling-period sync signal from an output signal of a digital-to-analog converter
+active terahertz metamaterial devices
+sheathed steel pipe with conductive plastic resin
+information processing apparatus and method for generating image of virtual space
+video device for recording a high definition still image
+method , apparatus , and computer program product for wireless device discovery process
+method for tethering a communications device
+method and apparatus for plating through holes in graphite composites
+large scale integrated circuit package
+method of manufacturing a capacitor and a capacitor electrode in semiconductor device
+microphone expander
+establishing a multiparty session by sending invitations in parallel
+systems and methods for simultaneous sampling of serial digital data streams from multiple analog-to-digital converters ( adcs ) , including in distributed antenna systems
+interacting with a remote server over a network to determine whether to allow data exchange with a resource at the remote server
+cable with adhesively bonded sheath
+optical semiconductor device
+solder pads and method of making a solder pad
+headroom compensation circuit for voltage converter
+dial-down switching system and method
+electron gun body for a color cathode ray tube
+method for driving an imaging device and image pickup device wherein signals corresponding to same color outputs are combined
+circuit and method for reducing charge injection and clock feed-through in switched capacitor circuits
+inorganic rechargeable non-aqueous cell
+ionization detector utilizing electric discharge
+chip heat dissipation structure and liquid crystal display having thereof
+battery systems and remaining capacity management systems for secondary battery
+interdiction method and apparatus with variable dwell time
+technique of reducing shallow trench isolation loss during fin formation in finfets
+optical amplifiers with age-based pump current limiters
+image processing device and method for correcting an image according to a revised correction value
+multifunctional composite sandwich element with embedded electronics
+system and method for providing a server control interface
+electric motor and electrical device equipped with electric motor
+translator circuit and method therefor
+transformer construction
+semiconductor memory device and method of forming the same
+methods for reducing delamination during chemical mechanical polishing
+co-channel wireless communication methods and systems using relayed wireless communications
+hierarchical approach for health aware electronic modules
+electric motor vehicle
+microphonic noise compensation for an ionization detector
+induction coil heating unit for heat sealing closures to containers
+wireless power receiving device having a short-circuiting switch , and wireless power transmission device
+optical transmission system and optical amplification method used in the system
+displaced-bias interferometer-detection ( db/id ) modulation
+drive circuit for electroluminescent panels and the like
+copper interconnection
+method for manufacturing a semiconductor device by performing a heat-treatment in a hydrogen atmosphere
+information communication apparatus , information communication system , information communication method , and recording medium
+battery cathode
+communication apparatus and communication method
+portable computing environment solution
+system for providing protection for a high voltage transmission line
+color adjustment apparatus
+three-phase power distribution network communication system
+simplified high frequency tuner and tuning method
+method and system for signal coupling and direct current blocking
+accessing privileged objects in a server environment
+living body inspecting apparatus and noninvasive blood analyzer using the same
+thermosetting resin composition and use thereof
+signal designs for d2d subframes
+silicided buried bitline process for a non-volatile memory cell
+arrangement of semiconductor memory devices and semiconductor memory module comprising an arrangement of semiconductor memory devices
+metal halide lamp for curing adhesives
+radio base station and communication control method
+cooling apparatus for motor means to protect commutator from dust and moisture in cooling air
+method of forming doped regions in the bulk substrate of an soi substrate to control the operational characteristics of transistors formed thereabove , and an integrated circuit device comprising same
+dispersion managed hom multimode optical fibre
+semiconductor integrated circuit device including memory cell section having capacitor over bitline structure and with the memory and peripheral sections having contact plug structures containing a barrier film and effecting electrical contact with misfets of both memory and peripheral sections
+color cathode ray tube screening exposure method and apparatus
+forming sulfur-based positive electrode active materials
+method for geolocating logical network addresses
+method for an automatic selection of an ip qos mechanism , respective cpe device and computer readable storage medium
+optical color sensor system
+built-in electronic component substrate and method for manufacturing the substrate
+wireless communication system to detect an abnormal condition associated with wireless communication device types
+on-chip filter-regulator for a microprocessor phase locked loop supply
+method for manufacturing semiconductor device
+communication control method and management apparatus
+food packaging
+determining traffic information in a communications network
+method and apparatus for deflecting charged particles
+light-emitting device
+integrated circuits with varying gate structures and fabrication methods
+display panel and projection type display apparatus
+switching system reliability
+method and apparatus for simply configuring a subscriber appliance for performing a service controlled by a separate service provider
+system for free space optical communication and method for operation thereof
+circuit for clock signal extraction from a high speed data stream
+system and method for providing a content consumption journal to users in a multi-device environment
+signal processing with look-ahead modulator noise quantization minimization
+control apparatus and control method for voltage conversion apparatus
+devices and methods for dynamic video processing
+compound semiconductor high frequency switch device
+method of making a heat exchanger core component
+thyristor column
+phased array antenna data re-alignment
+test arrangements for radio telephone systems
+active matrix panel , detection apparatus and detection system
+emergency phone with single button activation
+dipole antenna with integrated balun
+x-ray tube with rotating anode core
+cable crossover device
+method and system for providing a distributed service network for telecommunications service providers
+system and method for a multiresolution transform of digital image information
+emi cabinet with improved interference suppression
+non-liquid proton conductors for use in electrochemical systems under ambient conditions
+battery system , method for charging battery modules , and method for balancing battery modules
+test system with mechanical alignment for semiconductor chip scale packages and dice
+apparatus , and associated method , for assigning policy settings to a mobile station
+apparatus and method for thermal isolation , circuit cooling and electromagnetic shielding of a wafer
+reed-solomon decoder
+multipole electric circuit breaker with improved current limiting device
+power modules and headgear
+integrated magnetic resonant power converter
+method and apparatus for transmitting a reference signal in a wireless communication system
+method and system for managing context of mobile station
+secure access to data in a device
+method and apparatus for controlling service acquisition in a local area network device
+method of forming a collar using selective sige/amorphous si etch
+systems and methods for expediting the identification of priority information for received packets
+mass spectrometer
+noise-based gain adjustment and amplitude estimation system
+deinterlacing method for video signals based on motion-compensated interpolation
+benzamidazoles , compositions containing such compounds and methods of use
+isolated load switching with surge suppression
+rfid tag with anti-tamper assembly
+battery capacity indicator for primary battery
+dynamically modulating link width
+method to electronically clarify sound or picture information and an arrangement to carry out the method
+context adaptive entropy coding for non-square blocks in video coding
+transparent gas barrier film , method for producing transparent gas barrier film , organic el element , solar battery , and thin film battery
+apparatus and method for transmitting/receiving signal in a communication system
+high density nickel hydroxide containing boron and a method for preparing it
+motor and disc drive with motor
+remote authorization of usage of protected data in trusted execution environments
+superconducting magnet
+system for and method of projecting an image and adjusting a data frequency of a video signal during image projection
+ac/dc input buffer
+system and method for managing router metadata
+solid state lighting apparatus and methods of forming
+terminal forming and installing apparatus
+hinged pocket thermal breaker and refrigeration unit
+device and method for merging codecs
+contactor device
+method and apparatus for qos improvement with packet voice transmission over wireless lans
+system and method of triggering and executing active content on a recipient device
+method and system for remote management of customer servers
+method and system for caching streaming multimedia on the internet
+discovering an evolved multicast broadcast multimedia service in single or dual band lte
+high capacity data communication network and network node suitable for the same
+snubber circuit located between an output line and low impedance potential
+performance of a local device by using processing results from a remote device when a processing threshold is exceeded
+information storage system capable of recording and playing back a plurality of still pictures
+rapid charging electric vehicle and method and apparatus for rapid charging
+concealment of errors in http adaptive video sets
+server-side scheduling for media transmissions
+method of fabricating semiconductor device having grooved source contact region
+metallized polypropylene film capacitor
+digital specimen manufacturing device , digital specimen manufacturing method , and digital specimen manufacturing server
+control circuit and method of a power converter
+printer apparatuses and methods for using the same
+method for producing dielectric porcelain composition for electronic device
+sending authentication codes to multiple recipients
+dedicated signature allocation and choice
+unit pixel in cmos image sensor with enhanced reset efficiency
+homopolar machine for reversible energy storage and transfer systems
+derivatization of silicon surfaces
+ferroelectric detector array utilizing material and fabrication technique
+processing apparatus capable of discriminating between pseudo half-tone/non-half-tone image data based upon the number of adjacencies of similar type of pixels within a block
+triboelectric nanogenerator
+multi-directional rfid antenna
+mim type capacitor
+power converter and method for regulating line transient response of the power converter
+online placement of video files determined by a function of the bandwidth to space ratio of each of the storage devices in a server environment
+method of fabricating flash memory using metal-oxide-crystal charge trap
+non-volatile boolean logic operation circuit and operation method thereof
+preferred service management system for a multimedia video decoder
+narrow energy band gap gallium arsenide nitride semi-conductors and an ion-cut-synthesis method for producing the same
+image processing apparatus
+method for setting up a call through indirect access in a mobile communication system
+sub-diffraction limit image resolution in three dimensions
+pull cord deflector
+system and method for collecting statistics for a communication network
+automatic alignment of a contrast enhancement system
+current limiting element for preventing electrical overcurrent
+removable sleeve adaptor for electrode leads
+varactor and method of forming a varactor with an increased linear tuning range
+interconnection of switches based on hierarchical overlay tunneling
+reference image and preview image capturing apparatus of mobile terminal and method thereof
+hierarchical sensor network for a grouped set of packages being shipped using elements of a wireless node network
+array-type multilayer ceramic electronic component and board having the same mounted thereon
+package carrier and manufacturing method thereof
+devices , circuits and methods for dual voltage generation using single charge pump
+light emitter substrate with different gaps between metal backs and image displaying apparatus using the same
+electric charger and power supply device for portable terminal
+method for making a superconducting field-effect transistor with inverted misfet structure
+increase base station coverage through efficient relay station backhaul communication using carrier aggregation
+patch antenna
+image processing system
+method for fabricating mos device with halo implanted region
+multi-level semi-vector error diffusion
+methods and apparatus for employing feedback body control in cross-coupled inverters
+low cross polarization and broad bandwidth
+electronic component and method for manufacturing electronic component
+system for dynamically creating and rendering audio objects
+magnetically driven electric switch
+battery charger having variable-magnitude charging current source
+image display apparatus for simultaneous display of a plurality of images
+capability negotiation in a telecommunications network
+reducing signal overshoots and undershoots in demosaicking
+method to increase mechanical fracture robustness of porous low k dielectric materials
+method and apparatus for performing position determination with pre-session action
+in-ear headphone
+system and method for switching cells in a communications network
+multiple conductor connector and method of connecting conductors to terminals therewith
+negative voltage generating circuit
+packaging and interconnection for superconductive circuitry
+drive circuit for driving power semiconductor device
+chip mounter
+assigning a local access telephone number to a wireless mobile communication device
+application server billing
+device and method for relaying packets
+substrate processing apparatus
+position sensor for transmission type optical deflector and apparatus for correcting scanning position of scanning optical system
+method , device and system for transmitting relay data
+automatic annotation of audio and/or visual data
+automatic light dimmer for electronic and magnetic ballasts ( fluorescent or hid )
+battery terminal , method for manufacturing battery terminal , and battery
+braided wire manufacturing method and braided wire manufacturing apparatus
+image pickup apparatus and image pickup unit having device for removing foreign substance deposited on surface of optical member
+gas discharge display device , plasma addressed liquid crystal display device , and method for producing the same
+successive approximation analog-to-digital converter and method of analog-to-digital conversion
+production of superconductor materials using a helicoidal flow of hot gases to effect pulverization and drying
+process for producing barrier film and barrier film thus produced
+resin composition for automobile relay box and automobile relay box comprising the same
+semiconductor emission apparatus
+seat assembly having heating element providing electrical heating of variable temperature along a predetermined path to a zone
+voice , music , video and data transmission over direct current wires
+external magnet flywheel mounting
+thermoplastic welding of organic resin composites using a fixed coil induction heater
+carriage module for scanner
+power tool trigger
+process and structure for thin film transistor with aluminum contacts and nonaluminum metallization in liquid crystal displays
+light emitting device and electronic apparatus
+automatic gain control and low power start-of-packet detection for a wireless lan receiver
+headset
+analog-to-digital conversion method and apparatus
+apparatus for on-board programming of serial eeproms
+semi-conductor modules
+system and method for encoding and decoding information signals using a priori information
+transmitting , receiving , and automatic recording system for programs with time and channel information
+method and apparatus for recording and reproducing information including plural channel audio signals
+method of fabricating contact plug
+monitoring system including an electronic sensor platform and an interrogation transceiver
+using bar-codes in an asset storage and transfer system
+receiver for simultaneously receiving different standards
+dc bus short circuit compliant power generation systems using induction machine
+fluorescent lamp holder assembly having a lamp holder body with an opening leading to electrical terminals
+semiconductor device
+dimmer holding current control circuit for phase cut dimming power supply
+light emitting diode holder
+electrical connector shell assembly and module retention clip
+method for assembling micro-components to binding sites
+pattern monitor mark and monitoring method suitable for micropattern
+electronic tool and methods for meetings
+efficient message transmission in a mobile communication system
+transistor layout having a heat dissipative emitter
+automated scrolling control unit and automated scrolling control system
+laser internal coupling modulation arrangement with wire grid polarizer serving as a reflector and coupler
+temporal and spatial bounding of personal information
+equipment and network health monitoring using security systems
+system and methods for using graphics hardware for real time two and three dimensional , single definition , and high definition video effects
+transmitting and receiving apparatus for satellite communications
+absolute position detection within 1 revolution using 3-channel incremental encoders with high resolution index track
+thin film transistor for use in a flat plate display
+conductor interconnect with dendrites through film and method for producing same
+aromatic-polyether-type ion-conductive ultrahigh molecular weight polymer , intermediate therefor , and process for producing these
+convergence of interactive television and wireless technologies
+energy devices
+method for determining pair of target receiver and target transmitter distributedly and concentratedly using cooperation header in a multi-hop network performing interference neutralization
+flip chip type led lighting device manufacturing method
+information processing apparatus and method
+coaxial connector grounding inserts
+multi-die semiconductor structure with intermediate vertical side chip and semiconductor package for same
+key telephone communication path interface
+high-density reprogrammable semiconductor memory device
+allocation of control channel in packet radio network
+electronic-component alignment method and apparatus therefor
+wafer structure for electronic integrated circuit manufacturing
+precise mechanism for load port adjustment
+system and method for increasing the strength of a bond made by a small diameter wire in ball bonding
+solid-state imaging device with light shield electrically connected to inter-horizontal transfer register
+foundation for a building structure
+methods of modeling erbium doped fiber amplifiers
+multiple supply gate array backfill structure
+method of forming high aspect ratio apertures
+connector
+method of manufacturing nanostructure semiconductor light emitting device
+electrolyte solution having ionic liquid and lithium-ion battery having the same
+method and apparatus for synchronous frame communication
+electrosurgical pencil providing blade isolation
+facilitating content management based on profiles of members in an environment
+electron radiation dose tailoring by variable beam pulse generation
+deuterated semi-conducting organic compounds used for opto-electronic devices
+secondary battery and manufacturing method thereof
+electrical connector assembly with guide pin latching system
+plasma treating method and apparatus therefor
+single pass , heavy ion systems for large-scale neutron source applications
+back-light control circuit of multi-lamps liquid crystal display
+method of making borderless contact having a sion buffer layer
+alternator overvoltage protection circuit
+modular power control system with multipin connectors and airflow conrol module
+exposure device , image forming apparatus , and computer-readable medium
+film type battery
+method for diamond coating by microwave plasma
+device for automatically transporting disk shaped objects
+compensation of frequency pulling in a time-division duplexing transceiver
+semiconductor device having a high current gain and a higher ge amount at the base region than at the emitter and collector regions , and photoelectric conversion apparatus using the device
+method and system for wind turbine braking
+cord holding attachment for electrical receptacle
+solar cell module , solar cell array and sunlight power generation apparatus
+firm-structured plug
+laser addressable thermal transfer imaging element with an interlayer
+maintaining session initiation protocol application session affinity in sip container cluster environments
+conductive silver paste for a metal-wrap-through silicon solar cell
+passive impedance matching device
+transformer container
+system and method of integrating collaboration systems with browser based application systems
+active acoustic attenuator
+optical reproduction system having function of rationally changing error data chunk and reproducing multimedia information as code data
+secure information storage and retrieval apparatus and method
+wavelength conversion device and wavelength conversion method
+power distortion-based servo control systems for frequency tuning rf power sources
+electronic device , and method of manufacturing an electronic device
+integral external connector interface for thin form factor computer cards
+transistor formed from stacked disposable sidewall spacer
+semiconductor device including a film for applying stress to a channel formation region to increase current flow
+method and system for initiating a software defined network call via a network adjunct platform
+efficient magnetic motor armatures
+lead body constructions for implantable medical electrical leads
+furnace for heating glass sheets
+transmission of digital data messages in digital telephony
+stenciling phosphor layers on light emitting diodes
+optocoupler having a semiconductor diode for each voltage source and a tunnel diode formed between each two successive voltage sources
+semiconductor device , start-up circuit having first and second circuits and a single voltage output terminal coupled to a second node between the semiconductor unit and the first circuit , and operating method for the same
+electric capacitor constructed to prevent explosion
+open architecture global sign-on apparatus and method therefor
+contact formation for semiconductor device
+method of manufacturing an electrode product
+wireless motor vehicle diagnostic and software upgrade system
+fuel cell system
+tubular fuel cell with coil current collector
+coherent photonic telecommunications system
+semiconductor device with analog capacitor and method of fabricating the same
+multiplexers employing bandpass-filter architectures
+wafer processing laminate , wafer processing member , temporary bonding arrangement , and thin wafer manufacturing method
+technique for providing end-to-end congestion control with no feedback from a lossless network
+bi-directional real-time data connection troubleshooting
+method and apparatus for producing binaural audio for a moving listener
+intra-cavity etalon with asymmetric power transfer function
+admissions control in a connectionless communications network
+methods and systems for providing usage pattern service for telecommunications customers
+browser session control system and method

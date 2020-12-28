@@ -1,0 +1,100 @@
+estimating latent demand with user prioritization
+communication service architectures for netcentric computing systems
+method and arrangement for video coding
+dummy fin formation by gas cluster ion beam
+passive listening pulse adaptive sidelobe canceller
+traveling wave tube having a helix delay line
+apparatus , system and method for cascaded power conversion
+methods of performing actions in a cell phone based on message parameters
+cmos pixel with dual gate pmos
+radio communication devices and methods for controlling a radio communication device
+peripherally reinforced laminated loudspeaker diaphragm
+wireless redistribution system for terrestrial digital television broadcasting
+object reference generating device , object reference generating method and computer readable recording medium for recording an object reference generating program
+method of wafer laser processing using a gas permeable protective tape
+drive control apparatus and drive control method , and video output apparatus
+delay locked loop circuit in semiconductor device and its control method
+cross aisle connection panel with movable cable brackets
+integrated circuit device and electronic instrument
+method of checking an inspection apparatus and method of establishing a measurement variable of the inspection apparatus
+fluid heater with compressible cover freeze protection
+customer premises equipment that can support multiple call control languages or multiple call agents
+encoding rate controlling apparatus and information encoding apparatus
+method and apparatus for recovery of semiconductor wafers from a chemical tank
+metal-insulator-metal ( mim ) capacitors and forming methods
+multimode josephson parametric converter : coupling josephson ring modlator to metamaterial
+semiconductor device manufacturing method thereof
+plasma torch initiated by short-circuit
+auxiliary power supply
+deblocking filter process with local buffers
+stress tolerant mems accelerometer
+printed circuit board and method of manufacturing the same
+flash eprom array with self-aligned source contacts and programmable sector erase architecture
+communication network providing wireless and hard-wired dynamic routing
+optimal decoding method and apparatus for data acquisition applications of sigma delta modulators
+recording apparatus
+static eliminator employing dc-biased corona with extended structure
+video coding and decoding methods
+strippable electrically shielded cable
+methods of forming a semiconductor device
+li-containing phosphoric-acid compound sintered body and sputtering target , and method for manufacturing said li-containing phosphoric-acid compound sintered body
+insulating resin composition and laminate obtained therefrom
+compact thermoacoustic array energy converter
+silent electromagnetic alarm
+color imaging processing method with boundary detection and enhancement
+siloxane resins
+reception device with data recovery mechanism , adapted to transmission system using a direct spread spectrum sequence
+physical device bonding
+integrated circuit die and/or package having a variable pitch contact array for maximization of number of signal lines per routing layer
+communication mechanism using spectrum sharing
+n-type semiconductor materials for thin film transistors
+diversity transmission using a single power amplifier
+method , apparatus and system for uplink synchronization
+optical amplifier and optical amplifier gain control method and apparatus
+method of fabricating an electronic device
+controller for grid tied inverter system
+charging control circuit for electronic timepiece
+process for producing a thin silicon solar cell
+computer information system and dynamic disaster recovery method therefor
+system , apparatus , and method for controlling access to multiple antennas in mobile devices having multiple sims
+pay phone call completion method and apparatus
+suspicious message processing and incident response
+device and method for fabrication of microchannel plates using a mega-boule wafer
+electric lamp
+illuminating device , image reading apparatus , and image forming apparatus
+modulation and demodulation of plural channels using analog and digital components
+pulsed air to electric generator
+manufacturing multiple layered structures of large scale integrated semiconductor devices
+solid-state imaging device and driving method therefor
+piezoelectric electromechanical translation apparatus and method
+system and method for programming a memory cell
+network call park service
+image display apparatus and method for operating the same
+cmos transistors with identical active semiconductor region shapes
+system and method for combining local and remote images such that images of participants appear overlaid on another in substanial alignment
+envelope detector for am radio
+method of depositing uniformly thick selective epitaxial silicon
+image processing apparatus performing printer calibration
+multiple phone numbers for mobile device
+digital calibration method and apparatus for a/d or d/a converters
+method and system for electrical power generation
+retention-extraction device for removable cards in a chassis
+auto title frames generation method and apparatus
+round/flat woven multi-conductor cable
+electrical connector for a chip module
+receiving device with rfid detection of built-in components held therein , and rfid detection method
+systems and methods for producing biochar-based products
+electromigration barrier layers for solder joints
+device and method for generating a coded multi-channel signal and device and method for decoding a coded multi-channel signal
+non-aqueous electrolyte secondary battery and method of manufacturing the same
+converter , encryption/decryption system , multi-stage converter , converting method , multi-stage converting method , program , and information recording medium
+television receiver having a demodulator circuit for demodulating a television signal modulated on a carrier
+filter chip element and method of preparing the same
+signal expander with discrimination between close and distant acoustic source
+cell monitor and control unit for multicell battery
+piezoelectric vibrator element , and piezoelectric vibrator
+electrical storage system , and control method for electrical storage system
+receiver
+network and method for correcting vertical non-linearity and mis-convergence in a television projection system
+method and apparatus for providing data entry content to a remote environment
+image recording method and apparatus

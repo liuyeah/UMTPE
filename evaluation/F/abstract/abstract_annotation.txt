@@ -1,0 +1,100 @@
+glow plug, 1; heating unit, 2; vaporizing chamber, 1; mixing chamber, 1
+resilient retainer cap, 1; resilient retainer, 1
+subsea flowline, 2; sea floor, 1; subsea facilities, 1; tie-in points, 2; relative rotation, 2; fluid communication, 3
+one-way clutch, 1; rotationally lock, 2; clutch hub, 1
+cooking appliance, 1; self capturing latch, 1; self capturing latch mechanism, 2; variable closing force, 2; stationary hook, 1
+internal combustion engines, 3; diesel engines, 3; direct fuel injection, 5; spin flow, 2
+wind electric power, 4; electric circuit, 3; electric power, 3; hot water heater, 2; air conditioners, 1
+locking member, 1; rail fastener, 1;
+power apparatus, 3; paddle wheels, 1; power utilization device, 3
+airblast fuel injector tip, 1; airblast fuel injector, 1
+circumferential channel, 1; tension band, 1; cross section, 1
+fluid leak detection, 4; flow switch, 3
+reflective panel, 1; transparent material, 1; half-cubic reflector, 2; optical continuum, 2; opaque absorber plate, 1; reflect light, 3
+gas flow control, 4; igniter switch, 3; gas appliance, 1; igniter activating switch, 3; electrical connector, 2; sparking operation, 3
+construction machine, 3; rotational speed regulation, 5; electric motor, 3; control unit, 3; rotational speed, 1
+two-cycle engine, 1; rotary valve mechanism, 2; breather chamber, 1
+movable plunger, 2; circumferential direction, 1
+fluid connector, 3; coupling position, 1; retainer leg portion, 1
+steering column, 1; energy absorber, 3
+particulate filter, 2; diesel-power vehicle, 2
+inductive coupler, 3; circular trough, 2; magnetically conductive material, 3
+unitary center, 1
+internal-combustion engine, 2
+flexible tubular, 2; inversion tube, 2
+flush water control, 5; flush water control arrangement, 3; water control pusher, 2; water control, 4; automated actuation unit, 2; flushing operation, 2
+spark plug cap, 3; ignition voltage, 2; internal combustion engine, 4; spark plug, 3; ignition coil, 3; plug terminals, 2; electronic spark, 4; spark plug electrodes, 2; capacitance divider, 3; ignition voltage detection, 5; ceramic insulator, 2
+ice dispenser, 3; ice chute, 2; ice gate mechanism, 5; pivoting lever system, 4
+exhaust gas, 2; compressor-based impurity separation mechanism, 5; refrigerator-type heat exchanger, 4; alkalinity control agent, 2; impurity separator, 3
+fixed connection, 3
+guide portion, 3; shaft portion, 3; inverted direction screw configuration, 3; constant diameter portion, 3; female screw portion, 3; double threaded screw, 2
+fuel pipe protective structure, 3; fuel pipe, 2; connecting member, 2; protective member, 2; vehicle body wall, 2; engine compartment, 3; internal combustion engine, 4; vehicle interior, 2
+control shaft, 3; shaft angular movements, 2; cam-guide device, 4; angular displacements, 2; consecutive gears, 2
+longitudinal axis, 1; cross branch, 1; cross handle, 2; cavity means, 3; elongatable strap, 3; end wall, 1; detached weighted end cap, 2
+fluid storage, 4; dispensing vessel, 3; rectangular parallelepiped shape, 1; integrated gas cabinet, 2; dispensing apparatus, 2; point-of-use ventilation gas scrubber, 4; vented gas cabinet, 3; physical adsorbent and chemical sorbent media, 2; gas cabinet, 3; process gas, 1
+wet-type segmented friction material, 3; tape-like friction material substrate, 3; flat roller, 3; friction material substrate, 3; heat press compression processing, 5; processed friction material substrate, 3; predetermined cross-section, 2; rotary push cutter, 2; sunken compressed portion, 2
+air suction nozzle, 2; spray nozzle, 2; treatment bath, 2; removal chamber, 2; air false-twist member, 2; spray nozzle, 2; heater drums, 2
+shut off control system, 4; fluid activated clutches, 3; clutch pedal, 3; vehicle operator, 3
+positioning system, 4; position sensor, 3; electronic valve controller, 3; control circuit, 3; signal converter, 3; ramp generator, 3; position feedback sensor, 3; actuator mechanism, 3; single unit, 2; signal paths, 2; electrical noise, 1
+gas turbine engine, 3; outer annular turbine rotor, 3; inner annular turbine rotor, 3; male members, 2; turbine blade, 1
+power transmission apparatus, 4; air conditioner, 4; driving power, 2; elastic portion, 1; outer ring, 1; inner ring, 1
+upper housing forming a seal, 2; bathroom fixture, 4; lower housing forming a seal, 2; sewer pipe, 2; toroidal gasket, 2
+valve operating device, 4; internal combustion engine, 3; drive rocker arm, 2; free rocker arm, 2; selective coupling mechanism, 4; coupling pin, 2; rocker shaft, 2
+ventilation system, 4; main hvac blower, 2; temperature-conditioned air, 1; smaller ventilation blower, 2; fresh air, 1; target ventilation flow rate, 2; indoor and outdoor air, 1; target flow rate, 2; ventilation setting, 2
+gas turbine engine turbine, 4; annular array, 1; nozzle guide vanes, 1; turbine blades, 1; annular casing, 1; overtip leakage fluid flow, 2; nozzle guide vanes, 2
+roof ventilator, 4; closed cell plastic, 1; laterally-spaced open cell plastic strips, 1; foamed polyurethane, 2; intercommunicating cells or pores, 2
+low-temperature theatrical lighting system, 4; rectangular frame structure, 2; opposing tubular frame members, 2; fluorescent lamps, 2; frame members, 2; fluorescent lamp sockets, 2; lamp sockets, 2; lighting system, 4; fluorescent lamp ballast, 2; fluorescent lamps, 2
+angular position, 2; electrical machine, 3; rotor position, 2; data source, 1
+fuel system, 4; compression-ignition engine, 3; pump supplying fuel, 3; control member, 2; control circuit, 3; transducer means, 2
+spindle unit, 3; rotary tool, 2; damping coefficient, 2
+liquified gas, 2; carbon dioxide, 1; coal particles, 1; power plant, 3; mixing chamber pressurized gas, 2; pumping means, 2; pressure reduction means, 3; cooling water chemistry control, 4
+internal-combustion engine, 2; crosshead motor piston, 2; charger piston, 2; hot combustion chamber, 2; insulated refractory materials, 2; ultra thermal efficiency, 2
+screw-type fastener, 2; cooperable assemblages, 1; fastener assemblage, 2; tubular housing, 2; internally threaded bore, 1; stud body, 1; longitudinal non-rotary movement, 2; ratchet disks, 1 
+portable belt clamping and pulling apparatus, 4; conveyor belt, 1; clamping jaws, 1
+fuel injector, 2; polymeric housing, 2; sealing a fuel injector, 3
+integrated intake manifold, 2; air cleaner system, 3; molded plastic induction module, 3; throttle body, 2; fuel rail, 2
+bearing device, 3; annular projection, 2; swing arm, 1
+rotating cylindrical piston engine, 2; explosion force, 1; internal air cooling, 2; linear motion, 3; rotary motion, 3; intake stroke, 4; intake air, 2; power stroke, 3; compact head arrangement, 3; power output shaft, 2; linear shuttling motion, 2; engine isolation arrangement, 4
+cooling system, 3; turbine airfoil, 2; perimeter cooling channel, 2; serpentine cooling channel, 2; airfoil tip cooling channel, 2; leading edge cooling channel, 2; cooling fluids, 1; mid-chord serpentine cooling channel, 2
+annular flexible metal seal surface, 2; internal fluid pressure, 2
+reciprocating internal combustion engine, 3; eccentric sleeve, 1; hydraulic fluid, 2
+vehicle engine, 2; engine cylinders, 2; atmospheric air, 1; air-reservoir, 2; air-container, 2; internal-combustion cycle, 3; internal-combustion engine, 3
+light-emitting device, 3; light-emitting device, 3; light-emitting layer, 2; wavelength converting portion, 2; wavelength converting material, 3; irradiation surface, 2
+hydraulic pressure intensifier, 3; oscillating piston, 1; boost pressure, 1; dump valve, 2
+exhaust gas, 1; nitrogen oxides, 2; liquid hydrocarbon, 2; exhaust gas cleaner, 2
+turbine exhaust gases, 2; heat energy, 3; heavy fuel oil, 2; gas flow, 1; flame shield, 1
+led package, 2; collimator body, 1; horizontal plane, 1; lighting element, 1; assembled state, 1; luminous flux, 2
+vehicle emissions, 2; refined fuel, 1; diesel truck, 2; fuel dispensing station, 2; vehicle identification, 3; fuel dispensing information, 2; on-board emissions monitor, 3; monitoring data, 3; refueling data, 2; magnetic treatment, 4; fuel combustion, 1; non-monetary receivables, 2 
+dryer range, 1; air flow, 2; maximum utilization, 3; volatile material, 2
+supporting apparatus, 3; blood circulation, 3; heart-lung machine, 3; blood-treating devices, 4; control units, 2; fastening unit, 1; screen-like wall element, 1; device-side retaining units, 1; patient-side fastening unit, 2; protective element, 3
+heat exchanging structure, 3; solar heat exchanger, 3; heat-resistant container, 2; low-melting-point metal, 1; light receiving plate, 2; heat carrier, 1; radiant heat, 2; flat light receiving plate, 2
+compound bow maintenance press, 2; compound bow, 1; floor stand, 1; electric motor, 1; hand crank, 1; worm gear drive system, 4; bow limb end pulleys, 1
+attenuating sound waves, 3; t-shaped resonator, 2
+gas-fired water heater, 3; annular space, 1; flame pattern, 1
+axial piston pump, 2; pump shaft, 1; pump cylinder, 1; valve plate, 2; tensile force, 1; hydraulic pressure reaction, 3; thrust force, 1
+outdoor information display apparatus, 3; wind rotating, 1; wind power generation, 3; rotational speed control, 3; information display, 3; electronically controlled light-emitting display, 2; control system, 3; light-emitting display, 2
+dial indicator, 3; reverse indicator, 1; shaft alignment procedure, 3; turbine-to-compressor drive, 4; high breakaway torque, 2; turbine shaft, 1; bracket sag, 1
+weapon system, 1; electrical energy, 1; piezoelectric element, 2; pin mechanism, 1; pre-detonation position, 3 
+toy water shooter, 1; pressurizable bladder, 1; trigger-operated nozzle, 1; air bulb, 1; alternate embodiment, 1
+inertial impact switch, 4; onductive sections, 2; concentric insulating member, 3; movable contact member, 1; interior radial, 1
+valve timing changing apparatus, 4; valve timing mechanism, 4; valve overlap period, 2; crank shaft, 1; timing belt, 1; cam pulley, 1; rotational phase, 2
+cryogenic liquid, 1; bulk storage tank, 1; system control device, 4; liquid level sensor, 3; pressure sensor, 1; device tank sensor, 1
+wear-resistant layer, 1; amorphous-nanocrystalline metals, 1; transition metal, 1
+electronic engine control system, 4; internal combustion engine, 1; supercharging device, 1; electronically-controlled throttle valve, 3; induction system, 1; stratified combustion mode, 4; homogeneous lean combustion mode, 4; boost-pressure correction factor, 2; arithmetic-calculation section, 1; ultra-lean combustion mode, 4
+fluid pump, 1; fluid pressure, 1; pump assembly, 1
+tubular structure, 1; sheet material, 1; ultraviolet-curing resin, 3; high-strength fibers, 2; ultraviolet light, 2
+loose waste material, 1; furnace chamber, 1; technical-grade oxygen, 1; stoichiometric amounts, 1; combustion chamber, 1
+composite panel, 1; inverted tray, 1; electro-luminescent film, 3
+rotation sensor, 1; annular magnetic encoder, 4; polyphenylene sulfide, 1; inorganic filler, 1; glass fiber, 1
+gasoline tank, 1; charcoal filled cannister, 3; purged gasoline vapors, 1; piston type carburetor, 3; purge port, 1; throttle valve, 1; evaporated vapors, 1
+belt driven vacuum pump, 1; air pre-cleaner, 3; belt driven components, 1; air outlet passages, 1
+abradable seal composite structure, 1; abradable ceramic surface layer, 1; high temperature oxidation, 1; metallic bottom layer, 2; metallic substrate, 2
+ignition coil, 1; ion sensing ignition system, 4; buffered ion-sense current source circuit, 4; current sensing circuit, 3; current measuring device, 4
+planetary rollers, 1; drive shaft, 2; drive grooves, 1; bucking strength, 1; axial pressure, 1
+gaseous medium, 1; adsorption chambers, 1; adsorption circuit, 1; hot gaseous regeneration medium, 4; regeneration circuit, 3; rotatable valve discs, 1
+freezing temperature, 1; freeze-dryer chamber, 3; induce nucleation, 1
+hybrid compression-absorption heat pumps, 4; fluid medium, 1; vapor phase, 2; combined medium, 2; counter current heat exchanger, 4
+photochemical vapor deposition apparatus, 4; reaction space, 1; photoreactive gas, 1; electric plasma discharge, 5; mercury reservoir, 1; ultraviolet rays, 1; communication pipe, 2
+hydrocarbon contaminants, 1; thermal oxidiser, 2; desorption chamber, 1
+lamp reflector, 2; heat sink, 2; light emitting modules, 2; light emitting diodes, 2
+non-volatile overspeed protection, 5; non-volatile overspeed detection, 5; turbine rotational speed, 1; power outage, 2; aerodynamic braking, 5; wind turbine, 1; overspeed condition, 1; non-volatile power source, 1; hydraulic pressure, 2

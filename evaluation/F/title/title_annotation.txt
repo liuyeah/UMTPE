@@ -1,0 +1,100 @@
+internal combustion diesel engine, 2
+socket joint, 1
+self-orienting subsea flowline, 2; tapping arrangement, 3
+vibration dampening, 3
+
+cylinder head, 1; internal combustion engines, 3
+wind electric plant, 3
+locking member, 1
+surface water driven power apparatus, 3
+airblast fuel injector, 3; fuel injector, 3
+split bobbin clutch, 1
+leak detection, 4; toilet leak detection kit, 3
+reflective panel, 1
+switch actuator, 1
+construction machine, 2; rotational speed regulation, 4
+two-cycle engine, 2
+
+fluid connector, 1
+adaptive energy absorber, 3; energy absorber, 3; steering column, 1
+pm reduction devices, 3; internal combustion engines, 3
+inductive coupler, 2
+
+fuel metering, 3
+
+flush water volume, 1
+misfire detecting capacitor, 1; internal combustion engine, 2
+ice dispenser, 1
+compressor impurity separation mechanism, 3; separation mechanism, 3
+thermal expansion, 1; thermal expansion joint, 1
+
+protective structure, 3
+unit for controlling, 3
+constraining means, 1
+fluid storage, 1
+manufacturing method, 3
+continuous displacement processing, 5; displacement processing, 5
+clutch disengagement control system, 3; control system, 3
+
+attachment structure, 2
+power transmission apparatus, 3; power transmission, 3
+bathroom fixture gasket apparatus, 2
+valve operating device, 3; operating device, 3; internal combustion engine, 2
+ventilation controller, 3
+
+
+lighting system, 3
+electrical machine rotor, 2
+fuel systems, 3
+spindle unit, 3
+coal slurry system, 3
+internal-combustion engine, 2
+panel fastener, 2
+conveyor belt clamping and pulling apparatus, 4
+polymeric bodied fuel injector, 3; polymeric support member, 2; elastomeric seal, 2
+integrated intake manifold, 2; air cleaner system, 4; intake manifold, 2
+bearing device, 4
+rotating piston engine, 3; compression stroke, 2
+cooling system, 4; perimeter cooling and rim cavity purge channels, 2; rim cavity purge channels, 2
+hydraulic coupler, 2; radial metal seal, 2
+reciprocating internal combustion engine, 3
+energy recovery, 2
+light-emitting device, 4
+hydraulic pressure intensifier, 3
+cleaning exhaust gas, 3; nitrogen oxides, 2
+wall fired duct heater, 2
+collimator, 2
+vehicle emissions, 2
+dryer range, 2
+protective apparatus, 3; extracorporeal heart, 2; lung support systems, 4
+heat exchanging structure, 3; solar heat converter, 3
+compound bow maintenance press, 2; compound bow, 2
+air induction system, 4; acoustic resonator, 2
+water heater construction, 3
+axial piston machine, 2
+control systems, 4; information display, 2
+shaft alignment apparatus, 4
+power supply, 3
+toy water shooter, 1
+springless impact switch, 3
+valve timing changing apparatus, 5; internal combustion engine, 1
+dispensing cryogenic liquids, 1
+antiabrasion coating, 1
+internal combustion engine, 1; supercharging device, 3
+piston pump, 1
+
+waste material, 1; oxygen injection, 5
+composite panel, 1
+rolling bearing, 1; rotation sensor, 2
+gasoline vapor capture, 5; combustion system, 3
+vacuum pump aspirator, 1
+graded metal-to-ceramic structure, 2; high temperature abradable seal applications, 2
+buffered ion sense current source, 4; ignition coil, 3
+rotary motion, 1; axial motion, 1
+adsorption apparatus, 3
+lyophilization system, 3
+power factor, 1; heat pumps, 1; solution cycle, 1
+photochemical vapor deposition apparatus, 4
+soil remediation system, 4
+led lamp, 1; high heat dissipation rate, 5
+speed control system, 5; wind turbines, 1

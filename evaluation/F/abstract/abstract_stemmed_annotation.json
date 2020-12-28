@@ -1,0 +1,720 @@
+[
+ [
+  "glow plug",
+  "heat unit",
+  "vaporize chamber",
+  "mix chamber"
+ ],
+ [
+  "resilient retainer cap",
+  "resilient retainer"
+ ],
+ [
+  "subsea flowline",
+  "sea floor",
+  "subsea facility",
+  "tie-in point",
+  "relative rotation",
+  "fluid communication"
+ ],
+ [
+  "one-way clutch",
+  "rotationally lock",
+  "clutch hub"
+ ],
+ [
+  "cook appliance",
+  "self capture latch",
+  "self capture latch mechanism",
+  "variable close force",
+  "stationary hook"
+ ],
+ [
+  "internal combustion engine",
+  "diesel engine",
+  "direct fuel injection",
+  "spin flow"
+ ],
+ [
+  "wind electric power",
+  "electric circuit",
+  "electric power",
+  "hot water heater",
+  "air conditioner"
+ ],
+ [
+  "lock member",
+  "rail fastener"
+ ],
+ [
+  "power apparatu",
+  "paddle wheel",
+  "power utilization device"
+ ],
+ [
+  "airblast fuel injector tip",
+  "airblast fuel injector"
+ ],
+ [
+  "circumferential channel",
+  "tension band",
+  "cross section"
+ ],
+ [
+  "fluid leak detection",
+  "flow switch"
+ ],
+ [
+  "reflective panel",
+  "transparent material",
+  "half-cubic reflector",
+  "optical continuum",
+  "opaque absorber plate",
+  "reflect light"
+ ],
+ [
+  "gas flow control",
+  "igniter switch",
+  "gas appliance",
+  "igniter activate switch",
+  "electrical connector",
+  "spark operation"
+ ],
+ [
+  "construction machine",
+  "rotational speed regulation",
+  "electric motor",
+  "control unit",
+  "rotational speed"
+ ],
+ [
+  "two-cycle engine",
+  "rotary valve mechanism",
+  "breather chamber"
+ ],
+ [
+  "movable plunger",
+  "circumferential direction"
+ ],
+ [
+  "fluid connector",
+  "couple position",
+  "retainer leg portion"
+ ],
+ [
+  "steer column",
+  "energy absorber"
+ ],
+ [
+  "particulate filter",
+  "diesel-power vehicle"
+ ],
+ [
+  "inductive coupler",
+  "circular trough",
+  "magnetically conductive material"
+ ],
+ [
+  "unitary center"
+ ],
+ [
+  "internal-combustion engine"
+ ],
+ [
+  "flexible tubular",
+  "inversion tube"
+ ],
+ [
+  "flush water control",
+  "flush water control arrangement",
+  "water control pusher",
+  "water control",
+  "automate actuation unit",
+  "flush operation"
+ ],
+ [
+  "spark plug cap",
+  "ignition voltage",
+  "internal combustion engine",
+  "spark plug",
+  "ignition coil",
+  "plug terminal",
+  "electronic spark",
+  "spark plug electrode",
+  "capacitance divider",
+  "ignition voltage detection",
+  "ceramic insulator"
+ ],
+ [
+  "ice dispenser",
+  "ice chute",
+  "ice gate mechanism",
+  "pivot lever system"
+ ],
+ [
+  "exhaust gas",
+  "compressor-base impurity separation mechanism",
+  "refrigerator-type heat exchanger",
+  "alkalinity control agent",
+  "impurity separator"
+ ],
+ [
+  "fix connection"
+ ],
+ [
+  "guide portion",
+  "shaft portion",
+  "invert direction screw configuration",
+  "constant diameter portion",
+  "female screw portion",
+  "double thread screw"
+ ],
+ [
+  "fuel pipe protective structure",
+  "fuel pipe",
+  "connect member",
+  "protective member",
+  "vehicle body wall",
+  "engine compartment",
+  "internal combustion engine",
+  "vehicle interior"
+ ],
+ [
+  "control shaft",
+  "shaft angular movement",
+  "cam-guide device",
+  "angular displacement",
+  "consecutive gear"
+ ],
+ [
+  "longitudinal axi",
+  "cross branch",
+  "cross handle",
+  "cavity mean",
+  "elongatable strap",
+  "end wall",
+  "detach weight end cap"
+ ],
+ [
+  "fluid storage",
+  "dispense vessel",
+  "rectangular parallelepip shape",
+  "integrate gas cabinet",
+  "dispense apparatu",
+  "point-of-use ventilation gas scrubber",
+  "vent gas cabinet",
+  "physical adsorbent and chemical sorbent media",
+  "gas cabinet",
+  "process gas"
+ ],
+ [
+  "wet-type segment friction material",
+  "tape-like friction material substrate",
+  "flat roller",
+  "friction material substrate",
+  "heat press compression process",
+  "process friction material substrate",
+  "predetermine cross-section",
+  "rotary push cutter",
+  "sink compress portion"
+ ],
+ [
+  "air suction nozzle",
+  "spray nozzle",
+  "treatment bath",
+  "removal chamber",
+  "air false-twist member",
+  "heater drum"
+ ],
+ [
+  "shut off control system",
+  "fluid activate clutch",
+  "clutch pedal",
+  "vehicle operator"
+ ],
+ [
+  "position system",
+  "position sensor",
+  "electronic valve controller",
+  "control circuit",
+  "signal converter",
+  "ramp generator",
+  "position feedback sensor",
+  "actuator mechanism",
+  "single unit",
+  "signal path",
+  "electrical noise"
+ ],
+ [
+  "gas turbine engine",
+  "outer annular turbine rotor",
+  "inner annular turbine rotor",
+  "male member",
+  "turbine blade"
+ ],
+ [
+  "power transmission apparatu",
+  "air conditioner",
+  "drive power",
+  "elastic portion",
+  "outer ring",
+  "inner ring"
+ ],
+ [
+  "upper house form a seal",
+  "bathroom fixture",
+  "lower house form a seal",
+  "sewer pipe",
+  "toroidal gasket"
+ ],
+ [
+  "valve operate device",
+  "internal combustion engine",
+  "drive rocker arm",
+  "free rocker arm",
+  "selective couple mechanism",
+  "couple pin",
+  "rocker shaft"
+ ],
+ [
+  "ventilation system",
+  "main hvac blower",
+  "temperature-condition air",
+  "smaller ventilation blower",
+  "fresh air",
+  "target ventilation flow rate",
+  "indoor and outdoor air",
+  "target flow rate",
+  "ventilation set"
+ ],
+ [
+  "gas turbine engine turbine",
+  "annular array",
+  "nozzle guide vane",
+  "turbine blade",
+  "annular case",
+  "overtip leakage fluid flow"
+ ],
+ [
+  "roof ventilator",
+  "close cell plastic",
+  "laterally-space open cell plastic strip",
+  "foam polyurethane",
+  "intercommunicate cell or pore"
+ ],
+ [
+  "low-temperature theatrical light system",
+  "rectangular frame structure",
+  "oppose tubular frame member",
+  "fluorescent lamp",
+  "frame member",
+  "fluorescent lamp socket",
+  "lamp socket",
+  "light system",
+  "fluorescent lamp ballast"
+ ],
+ [
+  "angular position",
+  "electrical machine",
+  "rotor position",
+  "data source"
+ ],
+ [
+  "fuel system",
+  "compression-ignition engine",
+  "pump supply fuel",
+  "control member",
+  "control circuit",
+  "transducer mean"
+ ],
+ [
+  "spindle unit",
+  "rotary tool",
+  "damp coefficient"
+ ],
+ [
+  "liquify gas",
+  "carbon dioxide",
+  "coal particle",
+  "power plant",
+  "mix chamber pressurize gas",
+  "pump mean",
+  "pressure reduction mean",
+  "cool water chemistry control"
+ ],
+ [
+  "internal-combustion engine",
+  "crosshead motor piston",
+  "charger piston",
+  "hot combustion chamber",
+  "insulate refractory material",
+  "ultra thermal efficiency"
+ ],
+ [
+  "screw-type fastener",
+  "cooperable assemblage",
+  "fastener assemblage",
+  "tubular house",
+  "internally thread bore",
+  "stud body",
+  "longitudinal non-rotary movement",
+  "ratchet disk"
+ ],
+ [
+  "portable belt clamp and pull apparatu",
+  "conveyor belt",
+  "clamp jaw"
+ ],
+ [
+  "fuel injector",
+  "polymeric house",
+  "seal a fuel injector"
+ ],
+ [
+  "integrate intake manifold",
+  "air cleaner system",
+  "mold plastic induction module",
+  "throttle body",
+  "fuel rail"
+ ],
+ [
+  "bear device",
+  "annular projection",
+  "swing arm"
+ ],
+ [
+  "rotate cylindrical piston engine",
+  "explosion force",
+  "internal air cool",
+  "linear motion",
+  "rotary motion",
+  "intake stroke",
+  "intake air",
+  "power stroke",
+  "compact head arrangement",
+  "power output shaft",
+  "linear shuttle motion",
+  "engine isolation arrangement"
+ ],
+ [
+  "cool system",
+  "turbine airfoil",
+  "perimeter cool channel",
+  "serpentine cool channel",
+  "airfoil tip cool channel",
+  "lead edge cool channel",
+  "cool fluid",
+  "mid-chord serpentine cool channel"
+ ],
+ [
+  "annular flexible metal seal surface",
+  "internal fluid pressure"
+ ],
+ [
+  "reciprocate internal combustion engine",
+  "eccentric sleeve",
+  "hydraulic fluid"
+ ],
+ [
+  "vehicle engine",
+  "engine cylinder",
+  "atmospheric air",
+  "internal-combustion cycle",
+  "internal-combustion engine"
+ ],
+ [
+  "light-emit device",
+  "light-emit layer",
+  "wavelength convert portion",
+  "wavelength convert material",
+  "irradiation surface"
+ ],
+ [
+  "hydraulic pressure intensifier",
+  "oscillate piston",
+  "boost pressure",
+  "dump valve"
+ ],
+ [
+  "exhaust gas",
+  "nitrogen oxide",
+  "liquid hydrocarbon",
+  "exhaust gas cleaner"
+ ],
+ [
+  "turbine exhaust gase",
+  "heat energy",
+  "heavy fuel oil",
+  "gas flow",
+  "flame shield"
+ ],
+ [
+  "lead package",
+  "collimator body",
+  "horizontal plane",
+  "light element",
+  "assemble state",
+  "luminou flux"
+ ],
+ [
+  "vehicle emission",
+  "refine fuel",
+  "diesel truck",
+  "fuel dispense station",
+  "vehicle identification",
+  "fuel dispense information",
+  "on-board emission monitor",
+  "monitor data",
+  "refuel data",
+  "magnetic treatment",
+  "fuel combustion",
+  "non-monetary receivable"
+ ],
+ [
+  "dryer range",
+  "air flow",
+  "maximum utilization",
+  "volatile material"
+ ],
+ [
+  "support apparatu",
+  "blood circulation",
+  "heart-lung machine",
+  "blood-treat device",
+  "control unit",
+  "fasten unit",
+  "screen-like wall element",
+  "device-side retain unit",
+  "patient-side fasten unit",
+  "protective element"
+ ],
+ [
+  "heat exchange structure",
+  "solar heat exchanger",
+  "heat-resistant container",
+  "low-melting-point metal",
+  "light receive plate",
+  "heat carrier",
+  "radiant heat",
+  "flat light receive plate"
+ ],
+ [
+  "compound bow maintenance press",
+  "compound bow",
+  "floor stand",
+  "electric motor",
+  "hand crank",
+  "worm gear drive system",
+  "bow limb end pulley"
+ ],
+ [
+  "attenuate sound wave",
+  "t-shap resonator"
+ ],
+ [
+  "gas-fire water heater",
+  "annular space",
+  "flame pattern"
+ ],
+ [
+  "axial piston pump",
+  "pump shaft",
+  "pump cylinder",
+  "valve plate",
+  "tensile force",
+  "hydraulic pressure reaction",
+  "thrust force"
+ ],
+ [
+  "outdoor information display apparatu",
+  "wind rotate",
+  "wind power generation",
+  "rotational speed control",
+  "information display",
+  "electronically control light-emit display",
+  "control system",
+  "light-emit display"
+ ],
+ [
+  "dial indicator",
+  "reverse indicator",
+  "shaft alignment procedure",
+  "turbine-to-compressor drive",
+  "high breakaway torque",
+  "turbine shaft",
+  "bracket sag"
+ ],
+ [
+  "weapon system",
+  "electrical energy",
+  "piezoelectric element",
+  "pin mechanism",
+  "pre-detonation position"
+ ],
+ [
+  "toy water shooter",
+  "pressurizable bladder",
+  "trigger-operate nozzle",
+  "air bulb",
+  "alternate embodiment"
+ ],
+ [
+  "inertial impact switch",
+  "onductive section",
+  "concentric insulate member",
+  "movable contact member",
+  "interior radial"
+ ],
+ [
+  "valve time change apparatu",
+  "valve time mechanism",
+  "valve overlap period",
+  "crank shaft",
+  "time belt",
+  "cam pulley",
+  "rotational phase"
+ ],
+ [
+  "cryogenic liquid",
+  "bulk storage tank",
+  "system control device",
+  "liquid level sensor",
+  "pressure sensor",
+  "device tank sensor"
+ ],
+ [
+  "wear-resistant layer",
+  "amorphous-nanocrystalline metal",
+  "transition metal"
+ ],
+ [
+  "electronic engine control system",
+  "internal combustion engine",
+  "supercharge device",
+  "electronically-control throttle valve",
+  "induction system",
+  "stratify combustion mode",
+  "homogeneou lean combustion mode",
+  "boost-pressure correction factor",
+  "arithmetic-calculation section",
+  "ultra-lean combustion mode"
+ ],
+ [
+  "fluid pump",
+  "fluid pressure",
+  "pump assembly"
+ ],
+ [
+  "tubular structure",
+  "sheet material",
+  "ultraviolet-cure resin",
+  "high-strength fiber",
+  "ultraviolet light"
+ ],
+ [
+  "loose waste material",
+  "furnace chamber",
+  "technical-grade oxygen",
+  "stoichiometric amount",
+  "combustion chamber"
+ ],
+ [
+  "composite panel",
+  "invert tray",
+  "electro-luminescent film"
+ ],
+ [
+  "rotation sensor",
+  "annular magnetic encoder",
+  "polyphenylene sulfide",
+  "inorganic filler",
+  "glass fiber"
+ ],
+ [
+  "gasoline tank",
+  "charcoal fill cannister",
+  "purge gasoline vapor",
+  "piston type carburetor",
+  "purge port",
+  "throttle valve",
+  "evaporate vapor"
+ ],
+ [
+  "belt drive vacuum pump",
+  "air pre-cleaner",
+  "belt drive component",
+  "air outlet passage"
+ ],
+ [
+  "abradable seal composite structure",
+  "abradable ceramic surface layer",
+  "high temperature oxidation",
+  "metallic bottom layer",
+  "metallic substrate"
+ ],
+ [
+  "ignition coil",
+  "ion sense ignition system",
+  "buffer ion-sense current source circuit",
+  "current sense circuit",
+  "current measure device"
+ ],
+ [
+  "planetary roller",
+  "drive shaft",
+  "drive groove",
+  "buck strength",
+  "axial pressure"
+ ],
+ [
+  "gaseou medium",
+  "adsorption chamber",
+  "adsorption circuit",
+  "hot gaseou regeneration medium",
+  "regeneration circuit",
+  "rotatable valve disc"
+ ],
+ [
+  "freeze temperature",
+  "freeze-dryer chamber",
+  "induce nucleation"
+ ],
+ [
+  "hybrid compression-absorption heat pump",
+  "fluid medium",
+  "vapor phase",
+  "combine medium",
+  "counter current heat exchanger"
+ ],
+ [
+  "photochemical vapor deposition apparatu",
+  "reaction space",
+  "photoreactive gas",
+  "electric plasma discharge",
+  "mercury reservoir",
+  "ultraviolet ray",
+  "communication pipe"
+ ],
+ [
+  "hydrocarbon contaminant",
+  "thermal oxidiser",
+  "desorption chamber"
+ ],
+ [
+  "lamp reflector",
+  "heat sink",
+  "light emit module",
+  "light emit diode"
+ ],
+ [
+  "non-volatile overspee protection",
+  "non-volatile overspee detection",
+  "turbine rotational speed",
+  "power outage",
+  "aerodynamic brake",
+  "wind turbine",
+  "overspee condition",
+  "non-volatile power source",
+  "hydraulic pressure"
+ ]
+]

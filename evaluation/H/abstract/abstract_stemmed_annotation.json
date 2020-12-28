@@ -1,0 +1,704 @@
+[
+ [
+  "network computer service"
+ ],
+ [
+  "communication service",
+  "netcentric compute system",
+  "message service",
+  "specialize message service",
+  "communication security service",
+  "virtual resource service",
+  "directory service",
+  "transport service",
+  "message transport service",
+  "packet forwarding/internetwork service",
+  "circuit switch service",
+  "transport security service",
+  "network address allocation service",
+  "quality of service service",
+  "network media service",
+  "media access service",
+  "physical media service"
+ ],
+ [
+  "video encode",
+  "decode entity"
+ ],
+ [
+  "dielectric fin",
+  "gas cluster ion beam",
+  "fin merge",
+  "semiconductor ( silicon ) fin",
+  "integrate circuit",
+  "variou finfet device"
+ ],
+ [
+  "electronic countermeasure",
+  "radar jam device"
+ ],
+ [
+  "travele wave tube",
+  "diameter enlargement"
+ ],
+ [
+  "power conversion",
+  "power converter"
+ ],
+ [
+  "cell phone"
+ ],
+ [
+  "pixel circuit",
+  "pmo transistor",
+  "photo-generate charge",
+  "nmo transistor",
+  "snapshot imager"
+ ],
+ [
+  "radio communication",
+  "radio communication device",
+  "measurement circuit",
+  "determination circuit"
+ ],
+ [
+  "loudspeaker frame"
+ ],
+ [
+  "collectively frequency-convert terrestrial digital tv broadcast signal",
+  "terrestrial digital tv broadcast signal",
+  "vhf band",
+  "tv broadcast",
+  "wirelessly transmit"
+ ],
+ [
+  "apportion server",
+  "name service",
+  "name service section"
+ ],
+ [
+  "deteriorate layer",
+  "pulse laser beam",
+  "protective tape",
+  "laser beam"
+ ],
+ [
+  "drive control apparatu",
+  "horizontal control section",
+  "vertical control section",
+  "scan mirror"
+ ],
+ [
+  "delay lock loop ( dll )",
+  "input buffer",
+  "low pass filter"
+ ],
+ [
+  "telecommunication equipment",
+  "cross-connection module"
+ ],
+ [
+  "integrate circuit",
+  "digital power supply regulation circuit",
+  "analog power supply regulation circuit",
+  "control logic circuit",
+  "analog circuit"
+ ],
+ [
+  "inspection apparatu"
+ ],
+ [
+  "fluid heater"
+ ],
+ [
+  "voip service",
+  "consumer premise equipment"
+ ],
+ [
+  "encode rate control apparatu",
+  "control device",
+  "quantize the dynamic image information",
+  "quantization scale code",
+  "information encode",
+  "encode rate control",
+  "quantize dynamic image information"
+ ],
+ [
+  "stop chemical process",
+  "semiconductor wafer",
+  "recycle the drain chemical",
+  "chemical process"
+ ],
+ [
+  "metal-insulator-metal ( mim ) capacitor",
+  "mim capacitor"
+ ],
+ [
+  "multimode josephson parametric converter",
+  "multimode quantum limit amplifier",
+  "josephson parametric converter"
+ ],
+ [
+  "mo transistor"
+ ],
+ [
+  "movable electrode",
+  "electric arc",
+  "cool circuit",
+  "electric short circuit"
+ ],
+ [
+  "auxiliary power supply equipment",
+  "load circuit",
+  "transmission link",
+  "high frequency voltage generator",
+  "voltage generator"
+ ],
+ [
+  "de-block filter"
+ ],
+ [
+  "micro-electro-mechanical system",
+  "stress gradient"
+ ],
+ [
+  "semiconductor chip"
+ ],
+ [
+  "flash eprom array",
+  "source decode",
+  "programmable sector"
+ ],
+ [
+  "data communication network",
+  "wireless and wire subnetwork",
+  "wireless communication",
+  "wire remote station",
+  "wireless network",
+  "mobile rf terminal",
+  "transparent bridge",
+  "wire subnet",
+  "wireless subnet",
+  "remote station",
+  "standard ieee 802 lan"
+ ],
+ [
+  "optimal nonlinear decode",
+  "optimal nonlinear decode algorithm",
+  "data acquisition application",
+  "sigma delta modulator",
+  "sigma delta structure",
+  "single and double loop",
+  "decode method",
+  "table look-up",
+  "conventional linear decode"
+ ],
+ [
+  "step motor",
+  "carry a carriage mount with"
+ ],
+ [
+  "variable ion mobility gaseou environment",
+  "control circuit",
+  "corona electrode",
+  "corona-free electrode"
+ ],
+ [
+  "video code",
+  "video code and decode",
+  "video code and decode method",
+  "video code method",
+  "video decode method",
+  "encode video bitstream",
+  "video coder-decoder"
+ ],
+ [
+  "electrical cable",
+  "electrical conductor",
+  "electrical insulation"
+ ],
+ [
+  "semiconductor workpiece",
+  "semiconductor device"
+ ],
+ [
+  "li-contain phosphoric-acid compound sinter body"
+ ],
+ [
+  "insulate resin composition",
+  "impact resistance",
+  "heat resistance",
+  "plate metal",
+  "permanganate salt",
+  "plate operation",
+  "insulate layer",
+  "multilayer wire board",
+  "polymerizable resin composition",
+  "crosslink elastic polymer",
+  "resin component",
+  "crosslink elastic poly",
+  "say crosslink elastic polymer",
+  "carboxyl group",
+  "particle diameter"
+ ],
+ [
+  "thermoacoustic array energy converter",
+  "heat drive thermoacoustic prime mover",
+  "acoustic cavity",
+  "piezoelectric electrical generator",
+  "energy storage element",
+  "prime mover convert heat",
+  "prime mover",
+  "convert heat",
+  "phase-lock array",
+  "piezoelectric element",
+  "electric energy",
+  "rectifier set",
+  "power line frequency"
+ ],
+ [
+  "non-acoustic alarm",
+  "electromagnetic motor",
+  "elastic couple element",
+  "quasi-linear oscillate motion"
+ ],
+ [
+  "color image process",
+  "thin-line enhancement module",
+  "color image",
+  "boundary enhancement module",
+  "de-background module",
+  "noise pixel",
+  "scan procedure"
+ ],
+ [
+  "siloxane resin composition",
+  "r1sio3/2 siloxane unit",
+  "siloxane unit",
+  "alkyl group",
+  "monovalent organic group",
+  "branch alkyl group",
+  "siloxane resin",
+  "mole percent r1sio3/2 unit",
+  "insoluble porou resin",
+  "insoluble porou coating",
+  "temperature effect",
+  "insoluble porou coat",
+  "dielectric constant"
+ ],
+ [
+  "bpsk type reception device",
+  "digital input signal",
+  "clock signal",
+  "clock generator",
+  "data signal",
+  "selection circuit",
+  "pulse edge",
+  "clock pulse edge",
+  "clock comparator"
+ ],
+ [
+  "installation protocol",
+  "authentication protocol",
+  "non-physical connection",
+  "physical interface component",
+  "physical connection",
+  "wireless device",
+  "network entity",
+  "non-physical connection",
+  "wireless device",
+  "daisy chain scheme"
+ ],
+ [
+  "integrate circuit",
+  "electrical connection"
+ ],
+ [
+  "an apparatu"
+ ],
+ [
+  "thin film transistor",
+  "organic semiconductor material",
+  "tetracarboxylic diimide naphthalene-base compound",
+  "imide nitrogen atom",
+  "aromatic moiety",
+  "electron donate group",
+  "organic thin-film transistor device"
+ ],
+ [
+  "radio transmission",
+  "multiple antenna",
+  "transmission signal",
+  "power amplifier",
+  "data signal",
+  "transmit antenna",
+  "antenna signal",
+  "pilot signal",
+  "phase shift"
+ ],
+ [
+  "uplink synchronization",
+  "network equipment",
+  "multi-carrier operation mode",
+  "component carrier",
+  "ta timer",
+  "ta group",
+  "ta group information",
+  "maintenance mechanism",
+  "multi-carrier system"
+ ],
+ [
+  "optical amplifier",
+  "light signal",
+  "optical light amplifier unit",
+  "tunable wavelength filter",
+  "signal light detection unit",
+  "control circuit",
+  "optical amplifier unit",
+  "input light signal",
+  "amplify light signal",
+  "transmission light wavelength",
+  "filter output signal",
+  "signal light level",
+  "amplify output component",
+  "peak detection unit",
+  "background light detection unit",
+  "peak light level",
+  "background light level"
+ ],
+ [
+  "electrical interconnection",
+  "electrical device",
+  "contact pad",
+  "conductive material",
+  "columnar member",
+  "offset contact pad"
+ ],
+ [
+  "inverter system",
+  "control configuration",
+  "electric power",
+  "circuit section",
+  "control signal",
+  "control circuit",
+  "inverter control signal",
+  "control circuit section",
+  "signal input"
+ ],
+ [
+  "charge control circuit",
+  "electronic timepiece",
+  "power source circuit",
+  "charge device",
+  "secondary battery",
+  "electronic timepiece circuit",
+  "drive signal change-over circuit",
+  "alarm signal",
+  "warn signal",
+  "buzzer drive circuit",
+  "buzzer sound",
+  "time alarm"
+ ],
+ [
+  "solar cell",
+  "silicon wafer",
+  "insulate layer",
+  "crystal growth",
+  "monocrystalline silicon",
+  "selective epitaxial growth",
+  "lateral crystal growth",
+  "electrode layer",
+  "monocrystalline silicon region",
+  "counter electrode"
+ ],
+ [
+  "client device"
+ ],
+ [
+  "multiple antenna",
+  "mobile device",
+  "protocol stack"
+ ],
+ [
+  "multiple call",
+  "telecommunication network",
+  "toll telecommunication network",
+  "pay telephone",
+  "single carrier",
+  "toll-free call",
+  "caller actuate",
+  "dial tone",
+  "telephone number",
+  "toll carrier",
+  "network apparatu",
+  "application server",
+  "speech recognition",
+  "tone signal receiver",
+  "voice query",
+  "response system"
+ ],
+ [
+  "network device",
+  "machine-readable media",
+  "integrate environment",
+  "automate process",
+  "suspiciou message",
+  "phish attack",
+  "distribute information"
+ ],
+ [
+  "microchannel plate",
+  "optical fiber",
+  "non-etchable material",
+  "etchable material"
+ ],
+ [
+  "concave reflector",
+  "optical axi",
+  "electric lamp",
+  "light source",
+  "light beam"
+ ],
+ [
+  "illuminate device",
+  "cylindrical len",
+  "light incidence surface",
+  "light emission surface",
+  "longitudinal direction",
+  "light source",
+  "paraxial virtual image"
+ ],
+ [
+  "quadrature phase shift key",
+  "quadrature phase shift",
+  "transmit signal",
+  "digital conversion",
+  "frequency multiplication",
+  "frequency division"
+ ],
+ [
+  "electric generator",
+  "pulse air",
+  "pulsed-air exhaust device",
+  "pressure chamber",
+  "magnetic member",
+  "magnetically interact",
+  "spring-back force",
+  "bias member",
+  "operative communication"
+ ],
+ [
+  "multiple layer structure",
+  "dielectric material",
+  "wire layer",
+  "protective film",
+  "electrical probe",
+  "electrical test",
+  "laser energy"
+ ],
+ [
+  "solid-state image device",
+  "solid-state image",
+  "signal line",
+  "operate period",
+  "intermediate potential"
+ ],
+ [
+  "electromechanical translation apparatu",
+  "drive force",
+  "clamp force",
+  "piezoelectric drive element",
+  "variable clamp force",
+  "electromechanical apparatu",
+  "slide motion"
+ ],
+ [
+  "memory cell",
+  "current mirror configuration",
+  "control application of current"
+ ],
+ [
+  "supplementary service function",
+  "communication network",
+  "multi-server network",
+  "retrieval request unit",
+  "exception handler"
+ ],
+ [
+  "image display device",
+  "point device",
+  "point signal",
+  "selection signal"
+ ],
+ [
+  "semiconductor material",
+  "dielectric liner",
+  "epitaxy process",
+  "semiconductor fin"
+ ],
+ [
+  "remote video image",
+  "video image",
+  "combine video image",
+  "image process operation",
+  "overlie operation",
+  "single image"
+ ],
+ [
+  "amplitude modulate ( be ) signal",
+  "envelope value",
+  "be signal",
+  "output signal"
+ ],
+ [
+  "monocrystalline silicon",
+  "nucleation site",
+  "oxide mask",
+  "substrate surface",
+  "hydrogen chloride",
+  "flat profile"
+ ],
+ [
+  "image process",
+  "image process condition",
+  "test image",
+  "engine characteristic",
+  "print characteristic",
+  "plural calibration"
+ ],
+ [
+  "voice call",
+  "phone number",
+  "mobile device",
+  "wireless carrier",
+  "contact information",
+  "income voice call"
+ ],
+ [
+  "digital calibration",
+  "a/d converter",
+  "analog signal",
+  "digital signal",
+  "calibration value",
+  "calibration coefficient",
+  "digital convert signal",
+  "analog convert signal"
+ ],
+ [
+  "electrical power",
+  "electrical power generation system",
+  "electrical power distribution",
+  "electrical power distribution arrangement",
+  "electrical power generator",
+  "electrical power generator",
+  "voltage controller",
+  "electrical current controller",
+  "electrical distribution system",
+  "electrical voltage margin",
+  "operational voltage",
+  "electrical power distribution arrangement"
+ ],
+ [
+  "retention-extraction device",
+  "removable card",
+  "actuation rod",
+  "cam slot",
+  "bell crank",
+  "cam follower",
+  "latch hook"
+ ],
+ [
+  "title frame",
+  "record device",
+  "broadcast television transmission",
+  "graphic treatment"
+ ],
+ [
+  "weave electrical multi-conductor cable",
+  "alternate longitudinal section",
+  "uni-directional rout",
+  "omni-directional rout"
+ ],
+ [
+  "electrical connector",
+  "load plate"
+ ],
+ [
+  "rfid antenna",
+  "device-specific rfid transponder"
+ ],
+ [
+  "end-to-end system/proces",
+  "biomas feedstock",
+  "biochar generation",
+  "char furnace",
+  "ultra-capacitor electrode"
+ ],
+ [
+  "microelectronic device",
+  "solder joint"
+ ],
+ [
+  "multi-channel encoder",
+  "multi-channel output signal",
+  "multi-channel reconstruction"
+ ],
+ [
+  "non-aqueou electrolyte",
+  "positive electrode",
+  "sodium oxide",
+  "molar amount"
+ ],
+ [
+  "generate unit",
+  "encrypt and decrypt data",
+  "decrypt data"
+ ],
+ [
+  "synchronou demodulator",
+  "push-pull output",
+  "emitter-couple transistor",
+  "collector circuit"
+ ],
+ [
+  "ferrite substrate",
+  "internal coil pattern",
+  "foam resin",
+  "magnetic permeability",
+  "electromagnetic shield component"
+ ],
+ [
+  "acoustic source",
+  "variable gain block"
+ ],
+ [
+  "multicell battery",
+  "electronic communication",
+  "electric power",
+  "end-of-charge signal"
+ ],
+ [
+  "piezoelectric vibrator element",
+  "excitation electrode"
+ ],
+ [
+  "electrical storage stack"
+ ],
+ [
+  "interference remove arrangement"
+ ],
+ [
+  "vertical non-linearity",
+  "television projection system",
+  "vertical deflection yoke"
+ ],
+ [
+  "data entry field",
+  "input interface"
+ ],
+ [
+  "image record apparatu",
+  "image record unit",
+  "record sheet"
+ ]
+]

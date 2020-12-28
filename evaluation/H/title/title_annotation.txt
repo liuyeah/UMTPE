@@ -1,0 +1,100 @@
+user prioritization, 1
+communication service, 3; netcentric computing systems, 3
+video coding, 5
+gas cluster ion beam, 2
+sidelobe canceller, 1
+
+cascaded power conversion, 4; power conversion, 4
+message parameters, 1
+dual gate pmos, 1
+radio communication devices, 3; radio communication, 4
+loudspeaker diaphragm, 1
+wireless redistribution system, 3; terrestrial digital television broadcasting, 4; digital television broadcasting, 4
+
+wafer laser processing, 4
+drive control apparatus, 3; drive control method, 3; control apparatus, 3
+delay locked loop circuit, 3
+movable cable brackets, 2
+integrated circuit, 3; integrated circuit device, 3; electronic instrument, 2
+inspection apparatus, 3
+fluid heater, 1
+multiple call control, 4; multiple call agents, 3
+encoding rate controlling apparatus, 3; controlling apparatus, 3; information encoding, 5; information encoding apparatus, 3
+semiconductor wafers, 1
+
+multimode josephson parametric converter, 3; parametric converter, 3
+semiconductor device manufacturing method, 5; semiconductor device, 4
+plasma torch, 3; short-circuit, 3
+auxiliary power supply, 4
+deblocking filter process, 4; local buffers, 2
+stress tolerant mems accelerometer, 5
+printed circuit board, 4
+flash eprom array, 3; self-aligned source contacts, 2; programmable sector erase architecture, 2
+communication network, 4; hard-wired dynamic routing, 5
+optimal decoding method, 5; data acquisition applications, 4; sigma delta modulators, 3
+recording apparatus, 4
+static eliminator, 4; dc-biased corona, 3
+video coding and decoding methods, 5
+strippable electrically shielded cable, 4
+semiconductor device, 4
+li-containing phosphoric-acid compound sintered body and sputtering target, 4; method for manufacturing said li-containing phosphoric-acid compound sintered body, 5
+insulating resin composition, 4; laminate obtained therefrom, 4
+compact thermoacoustic array energy converter, 4
+silent electromagnetic alarm, 4
+imaging processing, 5; boundary detection and enhancement, 5
+siloxane resins, 3
+reception device, 4; data recovery mechanism, 5; transmission system, 4; direct spread spectrum sequence, 2
+physical device bonding, 4
+integrated circuit die, 4; variable pitch contact array, 3; signal lines per routing layer, 2
+communication mechanism, 5; spectrum sharing, 5
+n-type semiconductor materials, 3; thin film transistors, 4
+diversity transmission, 2; single power amplifier, 2
+uplink synchronization, 3
+optical amplifier, 2; optical amplifier gain control method, 4
+electronic device, 3
+grid tied inverter system, 4
+electronic timepiece, 2; charging control circuit, 3
+thin silicon solar cell, 2
+computer information system, 4; dynamic disaster recovery method, 5
+controlling access, 3; multiple antennas, 2; mobile devices, 3
+pay phone call completion method, 4
+suspicious message processing, 4; message processing, 4
+microchannel plates, 2; mega-boule wafer, 2
+electric lamp, 2
+illuminating device, 3; image reading apparatus, 3; image forming apparatus, 3
+modulation and demodulation of plural channels, 4; analog and digital components, 2
+pulsed air, 2; electric generator, 2
+manufacturing multiple layered structures, 3; large scale integrated semiconductor devices, 3
+solid-state imaging device, 3; driving method, 4
+piezoelectric electromechanical translation apparatus, 4
+programming a memory cell, 3
+network call park service, 4
+image display apparatus, 3
+cmos transistors, 2; semiconductor region shapes, 2
+remote images, 2
+envelope detector, 3
+selective epitaxial silicon, 2
+image processing apparatus, 4; image processing, 5
+mobile device, 2
+digital calibration method, 4
+electrical power generation, 5
+retention-extraction device, 4; removable cards, 1
+auto title frames generation method, 4
+multi-conductor cable, 1
+electrical connector, 2; chip module, 2
+receiving device, 1; built-in components held therein, 1; rfid detection method, 4
+biochar-based products, 1
+electromigration barrier layers, 3; solder joints, 1; barrier layers, 1
+coded multi-channel signal, 3
+non-aqueous electrolyte secondary battery, 3
+encryption/decryption system, 3; multi-stage converting method, 4; information recording medium, 4
+television receiver, 3; demodulator circuit, 2; television signal, 1
+filter chip element, 1
+signal expander, 3; acoustic source, 1
+cell monitor, 3; control unit, 1
+piezoelectric vibrator element, 2
+electrical storage system, 4
+
+television projection system, 4
+data entry content, 2; remote environment, 1
+image recording method, 4
