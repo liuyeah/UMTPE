@@ -11,6 +11,7 @@ abstract_list_path = 'patent/abstract/abstract_rank/ranked_abstract_influence_ph
 claim_list_path = 'patent/claim/claim_rank/ranked_claim_influence_phrase_score_text.json'
 
 final_result_path = 'result/final_output.json'
+sample_result_path = 'result/sample_output.json'
 
 title_sen = []
 title_result = []
@@ -82,3 +83,17 @@ for i in range(len(title_result)):
 
 with open(final_result_path, 'w', encoding='utf-8') as f_out:
     json.dump(final_result, f_out, indent=True)
+
+
+sample_result = []
+count = 0
+signal = 0
+for i in final_result:
+    count += 1
+    if count % 100 == 0:
+        sample_result.append(i)
+        signal = signal + 1
+        if signal == 100:
+            break
+with open(sample_result_path, 'w', encoding='utf-8') as f_sample:
+    json.dump(sample_result, f_sample)
