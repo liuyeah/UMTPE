@@ -6,8 +6,8 @@ from gensim.models import LsiModel
 from gensim import models
 from gensim import similarities
 import numpy as np
-import logging
-logging.basicConfig(level=logging.DEBUG)
+# import logging
+# logging.basicConfig(level=logging.DEBUG)
 
 
 def topk_score(query_document_similarity, id, topk):

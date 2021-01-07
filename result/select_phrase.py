@@ -11,6 +11,7 @@ abstract_list_path = 'patent/abstract/abstract_rank/ranked_abstract_influence_ph
 claim_list_path = 'patent/claim/claim_rank/ranked_claim_influence_phrase_score_text.json'
 
 final_result_path = 'result/final_output.json'
+sample_order_path = 'example_data/labeled_order.json'
 sample_result_path = 'result/sample_output.json'
 
 title_sen = []
@@ -86,14 +87,13 @@ with open(final_result_path, 'w', encoding='utf-8') as f_out:
 
 
 sample_result = []
-count = 0
-signal = 0
-for i in final_result:
-    count += 1
-    if count % 100 == 0:
-        sample_result.append(i)
-        signal = signal + 1
-        if signal == 100:
-            break
+with open(sample_order_path, 'r', encoding='utf-8') as f_in:
+    sample_order = json.load(f_in)
+
+sample_order = sample_order[:100]
+
+for idx in sample_order:
+    sample_result.append(final_result[idx])
+
 with open(sample_result_path, 'w', encoding='utf-8') as f_sample:
     json.dump(sample_result, f_sample)

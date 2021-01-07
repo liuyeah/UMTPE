@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-export TOTAL_NUMBER=11187
+export TOTAL_NUMBER=11186
 export EMBEDDING_SIZE=500
 export CPC_CLUSTER_MIN_NUM=3
 export TITLE_CLUSTER_MIN_NUM=100
@@ -38,7 +38,7 @@ python patent/claim/claim_score/claim_metrics.py
 python patent/claim/claim_score/claim_score_normalize.py
 python patent/claim/claim_rank/claim_rank.py
 python patent/claim/claim_rank/claim_to_text.py
-python patent/claim/claim_rank/claim_to_text.py
+python patent/claim/claim_rank/claim_selection.py
 
 python result/select_phrase.py
 
