@@ -43,7 +43,7 @@ def build_graph(super_sapn_file, phrase_embedding_file, output_graph_file, outpu
                         count = count + 1
                         graph_embedding.append(phrase_embedding[temp_node])
                     else:
-                        print("count:" + str(zero_phrase_count) + " \tzero embedding phrase: " + temp_node)
+                        # print("count:" + str(zero_phrase_count) + " \tzero embedding phrase: " + temp_node)
                         zero_phrase_count = zero_phrase_count + 1
                 else:
                     # 打印找不到embedding的节点

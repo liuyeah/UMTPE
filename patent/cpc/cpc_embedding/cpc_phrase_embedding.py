@@ -35,7 +35,7 @@ def cpc_phrase_embedding(word_embedding_file, cpc_phrase_file, output_file):
                 temp_phrase_embedding = []
                 for temp_phrase_item in temp_phrase_list:
                     if temp_phrase_item not in word_embedding.wv:
-                        print('count : ' + str(non_find_number) + '\tThere is an error, cannot find: ' + temp_phrase_item)
+                        # print('count : ' + str(non_find_number) + '\tThere is an error, cannot find: ' + temp_phrase_item)
                         non_find_number = non_find_number + 1
                         # ipdb.set_trace()
                         continue

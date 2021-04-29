@@ -38,8 +38,8 @@ def phrase_embedding(cpc_embedding_file, word_embedding_file, title_phrase_file,
                 for temp_phrase_item in temp_phrase_list:
                     if temp_phrase_item not in word_embedding.wv:
                         my_non_count = my_non_count + 1
-                        print('cannot find word: ' + temp_phrase_item)
-                        print('count: ' + str(my_non_count))
+                        # print('cannot find word: ' + temp_phrase_item)
+                        # print('count: ' + str(my_non_count))
                         # ipdb.set_trace()
                         continue
                     temp_phrase_item_embedding = word_embedding.wv[temp_phrase_item]

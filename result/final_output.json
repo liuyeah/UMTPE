@@ -4,231 +4,230 @@
    "power supply circuit"
   ],
   "abstract": [
-   "power supply circuit",
    "first specific voltage",
    "series regulator",
-   "control circuit",
    "voltage value",
-   "electric charge",
-   "switching element",
+   "power supply circuit",
    "switching regulator",
    "output stage",
+   "electric charge",
+   "switching element",
+   "control circuit",
    "battery voltage"
   ],
   "claim": [
    "series regulator",
    "control circuit",
-   "output stage",
-   "switching element",
-   "power supply circuit"
-  ]
- },
- {
-  "title": [
-   "fabrication method",
-   "pixel structures"
-  ],
-  "abstract": [
-   "epitaxial layer",
-   "semiconductor substrate",
-   "first type",
-   "first type doping ions",
-   "gate structure",
-   "pinning layer",
-   "side surfaces",
-   "diffusion region",
-   "isolation layers",
-   "second type doping ions"
-  ],
-  "claim": [
-   "epitaxial layer",
-   "first type",
-   "pinning layer",
-   "first type doping ions",
-   "second type doping ions",
-   "semiconductor substrate",
-   "side surfaces",
-   "isolation layers",
-   "diffusion region",
-   "gate structure"
-  ]
- },
- {
-  "title": [
-   "device therefor",
-   "high-resolution images"
-  ],
-  "abstract": [
-   "high-resolution images",
-   "photo file"
-  ],
-  "claim": [
-   "high-resolution images",
-   "photo file",
-   "mobile terminal",
-   "photograph-taking command",
-   "low-resolution images",
-   "focus adjustment command",
-   "photo files",
-   "picture file",
-   "input touch commands",
-   "yuv format",
-   "high resolution image",
-   "second cycle",
-   "timing point",
-   "second timing point",
-   "still picture file",
-   "first cycle",
-   "manually input touch commands"
-  ]
- },
- {
-  "title": [
-   "many voltage splits",
-   "flexible split locations"
-  ],
-  "abstract": [
-   "ring segments",
-   "power set"
-  ],
-  "claim": [
-   "power set",
-   "ring segments",
-   "contact pads",
-   "input/output power",
-   "said contact pads",
-   "conductive layer",
-   "particular segment",
-   "input/output voltages",
-   "power planes",
-   "input/output ring",
-   "first signal set",
-   "ground ring",
-   "second conductive layer",
-   "solder balls",
-   "c ) routing",
-   "said package",
-   "location flexibility",
-   "input/output power set",
-   "first conductive layer",
-   "voltage paths"
-  ]
- },
- {
-  "title": [
-   "improved performance",
-   "digital amplifier"
-  ],
-  "abstract": [
-   "audio data",
-   "power pwm stage",
-   "n bits",
-   "dc voltage",
-   "audio band",
-   "full range",
-   "preferred embodiment",
-   "precision oscillator",
-   "significant bits",
-   "vlo.the ratio",
-   "appropriate performance",
-   "compact disk",
-   "pwm timing",
-   "data rate"
-  ],
-  "claim": [
-   "class d",
-   "class d amplifier",
-   "method for operating",
-   "protection switches",
-   "slower switching",
-   "low noise",
-   "wherein vlo",
-   "micro controller",
-   "audio bandwidth",
-   "output volume",
-   "wherein protection switches",
-   "power consumption",
-   "micro-controller means",
-   "pwm signal",
-   "pwm signals",
-   "said data packets",
-   "m-bit original source data",
-   "digital format audio data",
-   "related vlo",
-   "voltage rails",
+   "power supply circuit",
+   "electric charge",
    "power supply"
   ]
  },
  {
   "title": [
-   "switched-mode power supply",
-   "switched-mode power supply device"
+   "fabrication method thereof",
+   "fabrication method"
   ],
   "abstract": [
-   "feedback signal",
-   "switching element",
-   "rectifying-smoothening circuit",
-   "primary winding",
-   "switching frequency",
-   "secondary winding",
-   "output voltage",
-   "switching circuit",
-   "error amplifier",
-   "approximate line",
-   "error voltage",
-   "primary side",
-   "frequency correction rate",
-   "light load state"
+   "semiconductor substrate",
+   "epitaxial layer",
+   "first type doping ions",
+   "gate structure",
+   "first type",
+   "top surface",
+   "second type doping ions",
+   "doping type",
+   "pinning layer",
+   "type opposite"
   ],
   "claim": [
-   "switching frequency",
-   "feedback signal",
-   "approximate line",
-   "secondary winding",
-   "frequency correction rate",
-   "primary side",
-   "error amplifier",
-   "error voltage",
-   "switching circuit",
-   "output voltage"
+   "epitaxial layer",
+   "second type doping ions",
+   "first type doping ions",
+   "semiconductor substrate",
+   "second type",
+   "first type",
+   "pinning layer",
+   "isolation layers",
+   "enlarged opening",
+   "doping type"
   ]
  },
  {
   "title": [
-   "motion detector",
-   "anti-flicker apparatus"
+   "device therefor",
+   "low-resolution and high-resolution images"
+  ],
+  "abstract": [
+   "preview image",
+   "photo file"
+  ],
+  "claim": [
+   "mobile terminal",
+   "high-resolution images",
+   "photo file",
+   "low-resolution images",
+   "focus adjustment command",
+   "photograph-taking command",
+   "second timing point",
+   "photo files",
+   "timing point",
+   "only the low-resolution images",
+   "first cycle",
+   "high resolution image",
+   "first timing point",
+   "third timing point",
+   "second cycle",
+   "same second cycle",
+   "preview image"
+  ]
+ },
+ {
+  "title": [
+   "flexible split locations",
+   "ball grid array package"
+  ],
+  "abstract": [
+   "core power set",
+   "ground power set"
+  ],
+  "claim": [
+   "contact pads",
+   "said contact pads",
+   "input/output power",
+   "particular segment",
+   "conductive layer",
+   "input/output power set",
+   "input/output voltages",
+   "power set",
+   "said second conductive layer",
+   "second conductive layer",
+   "first signal set",
+   "ground ring",
+   "said ring segments",
+   "input/output ring",
+   "ring segments",
+   "first conductive layer",
+   "said first signal set",
+   "input/output power planes",
+   "power planes",
+   "particular segment communicates"
+  ]
+ },
+ {
+  "title": [
+   "digital amplifier"
+  ],
+  "abstract": [
+   "audio data",
+   "power pwm stage",
+   "dc voltage",
+   "data rate",
+   "more pwm output stages",
+   "given clock operating speed",
+   "input audio data resolution",
+   "sample packet distribution algorithm",
+   "class d amplifier",
+   "audio band",
+   "pwm timing",
+   "pwm output stages",
+   "time-division multiplexing",
+   "finesse pwm stage"
+  ],
+  "claim": [
+   "class d amplifier",
+   "class d",
+   "class d amplifier of claim",
+   "method for operating",
+   "micro controller",
+   "pwm signal",
+   "low voltage stage",
+   "power stage",
+   "data packets",
+   "further comprises",
+   "second pwm signal",
+   "pwm signals",
+   "single audio sample interval",
+   "digital format audio data",
+   "redundant audio components",
+   "audio bandwidth",
+   "said data packets",
+   "m-bit original source data",
+   "data sample",
+   "power supply",
+   "power efficiency"
+  ]
+ },
+ {
+  "title": [
+   "switched-mode power supply device",
+   "switched-mode power supply"
+  ],
+  "abstract": [
+   "feedback signal",
+   "primary winding",
+   "switching element",
+   "switching frequency",
+   "secondary winding",
+   "output voltage",
+   "rectifying-smoothening circuit",
+   "switching circuit",
+   "error voltage",
+   "light load state",
+   "primary side",
+   "error amplifier",
+   "output unit",
+   "dc voltage"
+  ],
+  "claim": [
+   "switched-mode power supply",
+   "switched-mode power supply device",
+   "switching frequency",
+   "frequency correction circuit",
+   "upper limit frequency",
+   "limit frequency",
+   "oscillation frequency",
+   "predetermined period",
+   "imposed load increases",
+   "unit load"
+  ]
+ },
+ {
+  "title": [
+   "anti-flicker apparatus",
+   "motion detector"
   ],
   "abstract": [
    "switchable load",
-   "present invention",
-   "fluorescent lamp",
-   "electronic switching device",
-   "energy efficient lamp",
-   "\u00e2\u0080\u009coff\u00e2\u0080\u009d state",
+   "first embodiment",
    "anti-glow switchable load apparatus",
-   "cathode fluorescent lamp"
+   "switchable light source",
+   "motion activated light switch",
+   "light switch",
+   "electronic switching device",
+   "light socket"
   ],
   "claim": [
    "electrical load",
-   "energy efficient",
    "energy efficient light",
+   "energy efficient",
    "electrical switch",
-   "open circuit",
    "light socket",
    "voltage sensor",
-   "current flowing",
-   "control device",
    "threaded base",
-   "light-on state",
    "further comprising",
-   "electronic activated device",
-   "hot electrical lead",
+   "open circuit",
    "electrical current flowing",
-   "voltage level",
-   "higher voltage",
-   "lower voltage",
+   "current flowing",
    "neutral electrical lead",
-   "light-off state"
+   "hot electrical lead",
+   "electronic activated device",
+   "light-on state",
+   "control device",
+   "parasitic powered control device",
+   "lower voltage",
+   "electrically connected",
+   "voltage level"
   ]
  },
  {
@@ -238,130 +237,129 @@
   "abstract": [
    "power device package",
    "semiconductor chips",
-   "operational reliability",
-   "optional sealing member"
+   "optional sealing member",
+   "more power semiconductor chips"
   ],
   "claim": [
    "power device package",
-   "semiconductor chips",
-   "power semiconductor chips",
-   "solder ball",
-   "wiring pattern",
-   "lead frame",
-   "external leads",
-   "control semiconductor chips",
-   "heat sink",
-   "epoxy-based resin",
    "power device package of claim",
-   "silicone rubber",
-   "combination thereof",
-   "wherein the wiring pattern",
+   "semiconductor chips",
+   "wiring pattern",
+   "power semiconductor chips",
+   "lead frame",
    "electrically connected",
-   "recesses comprises",
-   "further comprising",
-   "wherein the mounting",
+   "control semiconductor chips",
+   "combination thereof",
    "second surface",
-   "alloy thereof",
-   "only external leads",
-   "flip chips",
+   "first surface",
+   "wherein the wiring pattern",
+   "further comprising",
+   "sealing member",
    "adhesive member",
-   "power metal",
-   "first surface"
+   "wherein the power semiconductor chips",
+   "more control semiconductor chips",
+   "inner walls",
+   "copper alloy",
+   "aluminum alloy",
+   "wherein the control semiconductor chips",
+   "second surface opposite",
+   "wiring pattern further comprises",
+   "solder paste",
+   "solder ball"
   ]
  },
  {
   "title": [
-   "broadband access gateway",
-   "air programming"
+   "broadband access gateway"
   ],
   "abstract": [
-   "broadband access gateway",
    "access device",
+   "broadband access gateway",
+   "wireless local area network",
+   "local area network",
    "broadband network",
    "wide area network",
-   "local area network",
    "personal area network",
-   "firmware/software updates",
-   "wireless local area network"
+   "wireless personal digital assistant"
   ],
   "claim": [
    "access device",
    "broadband network",
-   "local area network",
-   "wireless local area network",
    "local wireless communication network",
    "wireless communication",
-   "wireless device",
+   "identified access device",
    "provisioning parameters",
-   "mobile station",
-   "wide area",
-   "further comprising",
+   "wireless device",
    "identification information",
    "new wireless device",
-   "wireless network",
+   "telecommunications network",
+   "further comprising",
+   "access overload class information",
+   "mobile station",
+   "mobile identification number",
    "neighbor list",
-   "telecommunications network"
+   "international mobile station identifier"
   ]
  },
  {
   "title": [
    "production process",
-   "secondary battery"
+   "same and secondary battery"
   ],
   "abstract": [
-   "secondary battery",
    "fibrous conductive materials",
    "conductive material",
    "active-material powder",
-   "electrode material",
-   "large strains",
-   "mutual contacts",
    "electric connection",
-   "secondary batteries",
-   "carbonaceous material"
+   "electrode material",
+   "high output",
+   "said active-material powder",
+   "carbonaceous material",
+   "conventional conductive materials",
+   "secondary batteries"
   ],
   "claim": [
-   "secondary battery",
-   "fibrous conductive materials",
-   "active-material powder",
-   "conductive material",
-   "carbonaceous material",
-   "electrode material",
    "electrode for secondary battery",
-   "conductive materials",
+   "secondary battery",
    "said fibrous conductive materials",
-   "nonaqueous electrolyte",
-   "m wherein",
+   "fibrous conductive materials",
+   "conductive materials",
+   "conductive material",
+   "active-material powder",
+   "said active-material powder",
    "production process",
-   "1-10 %",
-   "said active-material powder"
+   "carbonaceous material",
+   "adhering/bonding step",
+   "electrode material",
+   "positive electrode",
+   "said active material powder"
   ]
  },
  {
   "title": [
-   "circuit device",
+   "integrated circuit device",
    "integrated circuit"
   ],
   "abstract": [
-   "circuit device",
    "integrated circuit",
+   "relatively high circuit density",
    "high circuit density",
-   "complementary mos",
+   "relatively fast transistors",
    "fast transistors",
-   "permanently-off gates"
+   "circuit device"
   ],
   "claim": [
-   "integrated circuit",
    "integrated circuit device",
+   "integrated circuit",
    "frame-like structure",
-   "first frame-like structure",
    "said first frame-like structure",
-   "fourth region",
+   "first frame-like structure",
    "said fourth region",
-   "contact region",
-   "said well region",
-   "said surface",
-   "second frame-like structure"
+   "fourth region",
+   "said second frame-like structure",
+   "said third frame-like structure",
+   "second frame-like structure",
+   "third frame-like structure"
   ]
  },
  {
@@ -369,72 +367,71 @@
    "video stabilization"
   ],
   "abstract": [
-   "apparent stability",
    "movement vector",
-   "consecutive frames",
-   "relative position"
+   "video image",
+   "individual video frames",
+   "consecutive video frames"
   ],
   "claim": [
    "original height",
-   "computing system",
    "height and width",
+   "computing system",
    "increased height",
-   "method comprising",
-   "% and 20 %",
-   "border comprises",
    "subsequent frames",
-   "earlier frame",
-   "computer storage media",
-   "standard deviation",
-   "shrunken image",
-   "video frames",
-   "stabilized video",
-   "motion vector",
    "individual video frames",
+   "video frames",
+   "earlier frame",
+   "method comprising",
+   "border comprises",
+   "motion vector",
    "original images",
+   "bordered frame",
+   "video camera",
+   "bordered frames",
+   "other frames",
    "individual frames",
-   "greater than 5 %",
-   "video editing"
+   "video editing",
+   "stabilized video",
+   "computer storage media"
   ]
  },
  {
   "title": [
-   "multi-camera dataset assembly",
    "high precision timestamp requirements"
   ],
   "abstract": [
    "timestamping logic",
-   "non-image capture devices",
    "timestamp information",
+   "non-image capture devices",
+   "timing information",
    "streaming data",
-   "image capture devices",
    "group image data"
   ],
   "claim": [
-   "timestamp information",
-   "timestamping logic",
-   "non-image capture devices",
-   "image capture devices",
-   "group image data",
-   "streaming data",
-   "video streams",
-   "processing logic",
+   "streaming video streams",
    "streaming video",
+   "video streams",
    "non-video streams",
    "more non-video streams",
-   "streaming video streams",
+   "processing logic",
    "capture window",
-   "reference timestamp",
    "newly arrived frame",
-   "non-image sensors",
+   "reference timestamp",
+   "timestamp information",
    "assigned timestamps",
-   "image capture",
-   "more non-image sensors",
-   "linked list",
    "frameset frame",
+   "data structure",
+   "non-image sensors",
+   "more non-image sensors",
+   "least one frameset frame",
+   "video stream streams",
+   "streaming video stream streams",
    "associated reference timestamp",
-   "single packet",
-   "method comprising"
+   "reference time stamp value",
+   "threshold time value",
+   "image capture",
+   "non-image capture devices",
+   "capture devices"
   ]
  },
  {
@@ -442,41 +439,39 @@
    "battery safety unit"
   ],
   "abstract": [
-   "battery safety unit",
-   "moving automobile",
-   "dangerous acid",
-   "automobile batteries",
-   "wet cell",
    "particular battery",
-   "molded battery container",
-   "ordinary use"
-  ],
-  "claim": [
+   "ordinary use",
    "battery safety unit",
+   "molded battery container",
+   "wet cell automobile batteries",
+   "wet cell"
+  ],
+  "claim": [
    "safety unit",
+   "battery safety unit",
    "said battery",
-   "said cover",
-   "locking tabs",
-   "battery stabilizer"
+   "battery stabilizer",
+   "hollow space",
+   "said base"
   ]
  },
  {
   "title": [
-   "unit cell",
-   "unit cell switching function"
+   "unit cell switching function",
+   "unit cell"
   ],
   "abstract": [
-   "unit cell",
    "standby state",
    "active state",
-   "first cell"
+   "active/standby switching instruction",
+   "unit cell"
   ],
   "claim": [
-   "first cell",
-   "standby state",
-   "active state",
+   "second cell switch modules",
    "first and second cell",
-   "second cell"
+   "second cell switch",
+   "second cell",
+   "cell switch modules"
   ]
  },
  {
@@ -485,28 +480,28 @@
    "xor logic circuit"
   ],
   "abstract": [
-   "logic circuit",
-   "xor logic circuit"
+   "output terminal",
+   "multiplexing unit"
   ],
   "claim": [
-   "logic circuit",
    "xor logic circuit",
-   "second input terminal",
-   "level data",
-   "first input terminal",
+   "logic circuit",
    "output terminal",
-   "transfer unit",
-   "main path",
+   "second input terminal",
+   "first input terminal",
+   "level data",
    "logic low level data",
-   "second transfer unit",
-   "first transfer unit",
-   "multiplexing unit",
+   "transfer unit",
    "nmos transistor",
    "pmos transistor",
    "logic high level data",
-   "sub path",
-   "different polarity",
-   "data applied"
+   "first transfer unit",
+   "second transfer unit",
+   "main path",
+   "multiplexing unit",
+   "first nmos transistor",
+   "second nmos transistor",
+   "first pmos transistor"
   ]
  },
  {
@@ -514,16 +509,16 @@
    "surface heating equipment"
   ],
   "abstract": [
-   "heating tape",
    "heating elements",
-   "extending tape",
-   "foil conductors"
+   "heating tape",
+   "longitudinally extending foil conductors",
+   "longitudinally extending tape"
   ],
   "claim": [
-   "heating tape",
-   "said foils",
    "flexible tape",
-   "heating element"
+   "heating tape",
+   "said heating element",
+   "said foils"
   ]
  },
  {
@@ -532,22 +527,22 @@
    "computer systems"
   ],
   "abstract": [
-   "computer systems",
-   "teamed communication ports",
+   "multicast group",
    "communication ports",
-   "multicast group"
+   "multicast group join requests",
+   "computer systems"
   ],
   "claim": [
-   "communication ports",
-   "multicast group",
-   "teamed communication ports",
    "join request",
-   "multicast group join request",
-   "first multicast group",
    "first multicast group join",
+   "first multicast group",
+   "multicast group join request",
+   "multicast group join",
+   "multicast group",
+   "first multicast group join request",
    "communication port",
-   "bpdu ) data",
-   "multicast group join"
+   "computer system",
+   "communication ports"
   ]
  },
  {
@@ -556,34 +551,33 @@
    "scheduling request triggers"
   ],
   "abstract": [
-   "request triggers",
-   "scheduling request triggers",
    "user equipment",
    "scheduling request",
-   "allocation way",
-   "configuration information",
    "base station",
-   "request trigger",
+   "request triggers",
+   "configuration information",
+   "scheduling request triggers",
+   "allocation way",
    "service characteristics",
-   "current service"
+   "transmission type",
+   "then the base station"
   ],
   "claim": [
    "user equipment",
-   "request trigger",
-   "allocation way",
-   "scheduling request",
-   "request triggers",
    "configuration information",
-   "scheduling request triggers",
    "service characteristics",
-   "base station"
+   "request trigger",
+   "request triggers",
+   "scheduling request",
+   "scheduling request trigger",
+   "scheduling request triggers",
+   "allocation way"
   ]
  },
  {
   "title": [],
   "abstract": [
    "computing device",
-   "animations enhance viewing",
    "electronic items",
    "electronic content",
    "future position",
@@ -591,31 +585,31 @@
   ],
   "claim": [
    "electronic content",
-   "screen area",
    "second screen area",
-   "digital item",
-   "animated wait symbol",
-   "wherein the change",
-   "more portions",
-   "refresh rate",
+   "screen area",
    "presented electronic content",
+   "more portions",
+   "selectable marker",
    "enable selection",
-   "pop-up box",
+   "wherein the change",
+   "cursor comprises",
    "display comprising",
    "apparatus comprising",
-   "selectable marker",
-   "second refresh rate",
-   "electronic book",
+   "second position",
+   "first position",
+   "cursor further comprises",
+   "displaying electronic content",
+   "present electronic content",
+   "more selectable markers",
+   "selectable markers",
+   "altered position",
+   "computer program product",
+   "computer program",
    "wherein the altering",
    "wherein a shape",
-   "cursor comprises",
-   "second position",
-   "first refresh rate",
-   "computer usable medium",
-   "method comprising",
-   "first position",
-   "computer program product",
-   "computer program"
+   "first screen area",
+   "cursor responsive",
+   "cursor contracting"
   ]
  }
 ]

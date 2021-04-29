@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-export TOTAL_NUMBER=11186
+export TOTAL_NUMBER=20
 export EMBEDDING_SIZE=500
 export CPC_CLUSTER_MIN_NUM=3
 export TITLE_CLUSTER_MIN_NUM=100

@@ -39,11 +39,11 @@ def build_graph(super_sapn_file, phrase_embedding_file, output_graph_file, outpu
                         graph[temp_node] = count
                         count = count + 1
                         graph_embedding.append(phrase_embedding[temp_node])
-                    else:
-                        print("zero embedding phrase: " + temp_node)
-                else:
-                    # 打印找不到embedding的节点
-                    print('cannot find graph : ' + str(graph_number) + ', node: ' + temp_node)
+                #     else:
+                #         print("zero embedding phrase: " + temp_node)
+                # else:
+                #     # 打印找不到embedding的节点
+                #     print('cannot find graph : ' + str(graph_number) + ', node: ' + temp_node)
 
             graph_number = graph_number + 1
 

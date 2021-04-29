@@ -42,7 +42,7 @@ def title_centroid(ranked_phrase_file, cpc_title_phrase_embedding_file, output_f
                 if not (phrase_embedding[key_phrase] == 0.0).all():
                     process_data.append(phrase_embedding[key_phrase])
                 else:
-                    print('count: ' + str(zero_count) + 'zero embedding phrase: ' + key_phrase)
+                    # print('count: ' + str(zero_count) + 'zero embedding phrase: ' + key_phrase)
                     zero_count = zero_count + 1
             break
 
