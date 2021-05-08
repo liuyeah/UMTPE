@@ -96,7 +96,7 @@ if __name__ == '__main__':
     predicted_file = 'result/sample_output.json'
     referenece_title_file = 'evaluation/F/title/title_stemmed_annotation.json'
     referenece_abstract_file = 'evaluation/F/abstract/abstract_stemmed_annotation.json'
-    referenece_claim_file = 'evaluation/F/abstract/abstract_stemmed_annotation.json'
+    referenece_claim_file = 'evaluation/F/claim/claim_stemmed_annotation.json'
     title_100_sample_file = 'evaluation/F/title/title_sample.txt'
     title_900_sample_file = 'evaluation/F/title/title_900_sample.txt'
     abstract_100_sample_file = 'evaluation/F/abstract/abstract_sample.txt'
